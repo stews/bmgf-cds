@@ -1,0 +1,210 @@
+Case	Code	Custom ID	External ID	External Source	Grouping	Labmatrix Subject ID	National TB Program Classification	National TB Program Classification Date	Study Name	Study Outcome	Study Outcome Date	Study Outcome Visit Name	Study Outcome Visit Number	Withdrawn Reason
+Non-TB Case	ROK.1	C066	CFH 66	CFH		367			ROK					
+TB Case	ROK.2	B448	CFH 67	CFH	PrePilot	368	Unchanged Program Status		ROK	Withdrawn	06/13/2011	Week 8	6	Investigator Choice
+Non-TB Case	ROK.3	C067	CFH 68	CFH		369			ROK					
+TB Case	ROK.4	A224	CFH 69	CFH	PrePilot	370	Unchanged Program Status		ROK	Withdrawn	06/13/2011	Week 6	5	Investigator Choice
+TB Case	ROK.7	B449	CFH 75	CFH	PrePilot	376	Unchanged Program Status		ROK	Completed Study	07/10/2012	Week 24	9	
+TB Case	ROK.8	B450	CFH 76	CFH		377	Unchanged Program Status		ROK	Completed Study	07/26/2012	Week 24	9	
+TB Case	ROK.9	A225	CFH 77	CFH	PrePilot	378	Unchanged Program Status		ROK	Completed Study	07/31/2012	Week 24	9	
+TB Case	ROK.10	B451	CFH 78	CFH	PrePilot	379	Unchanged Program Status		ROK	Withdrawn	03/07/2012	Day 7	2	Subject Choice
+TB Case	ROK.11	B452	CFH 80	CFH		381	Unchanged Program Status		ROK	Completed Study	09/18/2012	Week 24	9	
+TB Case	ROK.14	A226	CFH 83	CFH	PrePilot	384	Unchanged Program Status		ROK	Completed Study	10/31/2012	Week 24	9	
+TB Case	ROK.15	A227	CFH 84	CFH	TB-	385	Unchanged Program Status		ROK	Completed Study	11/27/2012	Week 24	9	
+TB Case	ROK.16	A228	CFH 85	CFH		386	Unchanged Program Status		ROK	Completed Study	01/14/2013	Week 24	9	
+TB Case	ROK.17	A229	CFH 86	CFH		387	Unchanged Program Status		ROK	Withdrawn	01/18/2013	Week 24	9	Subject Choice
+TB Case	ROK.18	A230	CFH 87	CFH		388	Unchanged Program Status		ROK	Completed Study	03/06/2013	Week 24	9	
+TB Case	ROK.19	B453	CFH 88	CFH		389	Unchanged Program Status		ROK	Completed Study	04/02/2013	Week 24	9	
+TB Case	ROK.20	B454	CFH 91	CFH		392			ROK	Withdrawn	11/08/2012	Day 2	1	Investigator Choice
+TB Case	ROK.21	A231	CFH 92	CFH		393	Unchanged Program Status		ROK	Withdrawn	11/20/2012	Day 2	1	Subject Choice
+TB Case	ROK.22	A232	CFH 93	CFH		394	Unchanged Program Status		ROK	Completed Study	05/22/2013	Week 24	9	
+TB Case	ROK.23	B455	CFH 94	CFH		395	Unchanged Program Status		ROK	Withdrawn	01/02/2013	Day 7	2	Subject Choice
+TB Case	ROK.24	B456	CFH 95	CFH		396			ROK	Withdrawn	03/26/2013	Day 2	1	Subject Choice
+	ROK.25	B458	CFH 96	CFH		397			ROK					
+	ROK.26	B459	CFH 97	CFH		398			ROK					
+	ROK.27		CFH 98	CFH		399			ROK					
+TB Case	RSA.1	1	1	RSA Import	PrePilot	662	Cured	10/23/2010	RSA	Completed Study	01/14/2011	Week 24	9	
+TB Case	RSA.1	1	1	RSA Import	PrePilot	662	Unchanged Program Status		RSA	Completed Study	01/14/2011	Week 24	9	
+TB Case	RSA.2	2	2	RSA Import	PrePilot	663	Unchanged Program Status		RSA	Completed Study	02/11/2011	Week 24	9	
+TB Case	RSA.3	3	3	RSA Import	PrePilot	664	Unchanged Program Status		RSA	Completed Study	01/28/2011	Week 24	9	
+TB Case	RSA.4	4	4	RSA Import	PrePilot	665	Unchanged Program Status		RSA	Completed Study	09/30/2011	Week 24	9	
+TB Case	RSA.5	5	5	RSA Import	PrePilot	666	Cured	02/02/2011	RSA	Completed Study	02/11/2011	Week 24	9	
+TB Case	RSA.5	5	5	RSA Import	PrePilot	666	Unchanged Program Status		RSA	Completed Study	02/11/2011	Week 24	9	
+Non-TB Case	RSA.6	6	6	RSA Import	PrePilot	667			RSA					
+TB Case	RSA.7	7	7	RSA Import	PrePilot	668	Unchanged Program Status		RSA	Completed Study	02/18/2011	Week 24	9	
+TB Case	RSA.8	9	9	RSA Import	PrePilot	669	Unchanged Program Status		RSA	Completed Study	02/21/2011	Week 24	9	
+Non-TB Case	RSA.9	10	10	RSA Import	PrePilot	670			RSA					
+Non-TB Case	RSA.10	11	11	RSA Import	PrePilot	671			RSA					
+Non-TB Case	RSA.11	12	12	RSA Import	PrePilot	672			RSA	Withdrawn	05/27/2011			Investigator Choice
+TB Case	RSA.12	13	13	RSA Import	PrePilot	673	Unchanged Program Status		RSA	Completed Study	03/22/2011	Week 24	9	
+TB Case	RSA.13	14	14	RSA Import	PrePilot	674			RSA	Withdrawn	10/08/2010	Day 2	1	Subject Choice
+TB Case	RSA.14	15	15	RSA Import	PrePilot	675	Unchanged Program Status		RSA	Withdrawn	10/15/2010	Day 2	1	Investigator Choice
+TB Case	RSA.15	16	16	RSA Import	PrePilot	676	Unchanged Program Status		RSA	Withdrawn	10/15/2010	Day 2	1	Investigator Choice
+TB Case	RSA.16	17	17	RSA Import	PrePilot	677			RSA	Withdrawn	10/15/2010	Day 2	1	Investigator Choice
+Non-TB Case	RSA.17	18	18	RSA Import	PrePilot	678			RSA					
+TB Case	RSA.18	19	19	RSA Import	PrePilot	679	Defaulted	02/04/2011	RSA	Completed Study	04/08/2011	Week 24	9	
+TB Case	RSA.18	19	19	RSA Import	PrePilot	679	Unchanged Program Status		RSA	Completed Study	04/08/2011	Week 24	9	
+TB Case	RSA.19	20	20	RSA Import	PrePilot	680	Unchanged Program Status		RSA	Completed Study	04/05/2011	Week 24	9	
+TB Case	RSA.20	21	21	RSA Import	PrePilot	681	Unchanged Program Status		RSA	Completed Study	04/08/2011	Week 24	9	
+TB Case	RSA.21	23	23	RSA Import	PrePilot	690			RSA	Withdrawn	10/28/2010	Day 2	1	Investigator Choice
+TB Case	RSA.22	8	8	RSA Import	PrePilot	691	Unchanged Program Status		RSA	Withdrawn	09/10/2010	Day 2	1	Investigator Choice
+TB Case	RSA.23	22	22	RSA Import	PrePilot	692	Unchanged Program Status		RSA	Completed Study	04/20/2011	Week 24	9	
+TB Case	RSA.43	24	24	RSA Import	PrePilot	693	Cured	04/24/2011	RSA	Completed Study	05/04/2011	Week 24	9	
+TB Case	RSA.43	24	24	RSA Import	PrePilot	693	Unchanged Program Status		RSA	Completed Study	05/04/2011	Week 24	9	
+TB Case	RSA.44	25	25	RSA Import	PrePilot	694	Unchanged Program Status		RSA	Withdrawn	01/31/2011	Week 12	8	Subject non-compliant to visits
+TB Case	RSA.45	26	26	RSA Import	PrePilot	695	Unchanged Program Status		RSA	Withdrawn	11/12/2010	Day 2	1	Subject Choice
+TB Case	RSA.46	27	27	RSA Import	PrePilot	696	Unchanged Program Status		RSA	Completed Study	05/13/2011	Week 24	9	
+TB Case	RSA.47	28	28	RSA Import	PrePilot	697			RSA	Withdrawn	12/01/2010	Day 2	1	Investigator Choice
+TB Case	RSA.49	29	29	RSA Import	PrePilot	702	Cured	06/26/2011	RSA	Completed Study	08/05/2011	Week 24	9	
+TB Case	RSA.49	29	29	RSA Import	PrePilot	702	Unchanged Program Status		RSA	Completed Study	08/05/2011	Week 24	9	
+TB Case	RSA.50	30	30	RSA Import	PrePilot	703	Cured	06/28/2011	RSA	Completed Study	07/15/2011	Week 24	9	
+TB Case	RSA.50	30	30	RSA Import	PrePilot	703	Unchanged Program Status		RSA	Completed Study	07/15/2011	Week 24	9	
+TB Case	RSA.51	31	31	RSA Import	PrePilot	708			RSA	Withdrawn	01/21/2011	Day 2	1	Investigator Choice
+Non-TB Case	RSA.52	32	32	RSA Import	PrePilot	709			RSA	Withdrawn	01/29/2011			Investigator Choice
+TB Case	RSA.53	34	34	RSA Import	PrePilot	710	Unchanged Program Status		RSA	Completed Study	07/15/2011	Week 24	9	
+TB Case	RSA.54	35	35	RSA Import	Pilot	711	Unchanged Program Status		RSA	Completed Study	07/15/2011	Week 24	9	
+TB Case	RSA.55	33	33	RSA Import	PrePilot	712			RSA	Withdrawn	01/26/2011	Day 2	1	Subject Choice
+Non-TB Case	RSA.56	36	36	RSA Import	Pilot	713			RSA					
+Non-TB Case	RSA.57	37	37	RSA Import	Pilot	714			RSA					
+Non-TB Case	RSA.58	38	38	RSA Import	Pilot	717			RSA					
+Non-TB Case	RSA.59	39	39	RSA Import	Pilot	718			RSA					
+Non-TB Case	RSA.60	40	40	RSA Import	Pilot	719			RSA	Withdrawn	03/30/2011			Investigator Choice
+TB Case	RSA.61	41	41	RSA Import	Pilot	720	Cured	08/31/2011	RSA	Completed Study	09/09/2011	Week 24	9	
+TB Case	RSA.61	41	41	RSA Import	Pilot	720	Unchanged Program Status		RSA	Completed Study	09/09/2011	Week 24	9	
+TB Case	RSA.62	42	42	RSA Import	Pilot	721	Unchanged Program Status		RSA	Completed Study	09/12/2011	Week 24	9	
+TB Case	RSA.63	43	43	RSA Import	Pilot	722	Cured	09/14/2011	RSA	Completed Study	09/16/2011	Week 24	9	
+TB Case	RSA.63	43	43	RSA Import	Pilot	722	Unchanged Program Status		RSA	Completed Study	09/16/2011	Week 24	9	
+TB Case	RSA.64	44	44	RSA Import	Pilot	723			RSA	Withdrawn	04/06/2011			Investigator Choice
+Non-TB Case	RSA.65	45	45	RSA Import	Pilot	724			RSA					
+Non-TB Case	RSA.66	46	46	RSA Import	Pilot	725			RSA	Withdrawn	10/20/2011			Investigator Choice
+Non-TB Case	RSA.67	47	47	RSA Import	Pilot	726			RSA	Withdrawn	05/27/2011			Investigator Choice
+TB Case	RSA.69	49	49	RSA Import	Pilot	727	Unchanged Program Status		RSA	Completed Study	10/28/2011	Week 24	9	
+TB Case	RSA.70	50	50	RSA Import	Pilot	728	Unchanged Program Status		RSA	Completed Study	10/28/2011	Week 24	9	
+TB Case	RSA.71	51	51	RSA Import	Pilot	729	Unchanged Program Status		RSA	Completed Study	10/31/2011	Week 24	9	
+TB Case	RSA.72	52	52	RSA Import	Pilot	730	Cured	10/31/2011	RSA	Completed Study	11/11/2011	Week 24	9	
+TB Case	RSA.72	52	52	RSA Import	Pilot	730	Unchanged Program Status		RSA	Completed Study	11/11/2011	Week 24	9	
+TB Case	RSA.73	53	53	RSA Import	Pilot	731	Unchanged Program Status		RSA	Completed Study	11/11/2011	Week 24	9	
+TB Case	RSA.74	54	54	RSA Import	Pilot	732	Unchanged Program Status		RSA	Completed Study	12/09/2011	Week 24	9	
+TB Case	RSA.75	55	55	RSA Import	Pilot	733			RSA	Withdrawn	06/15/2011	Day 7	2	Investigator Choice
+TB Case	RSA.76	56	56	RSA Import	Pilot	736			RSA	Withdrawn	07/01/2011			Investigator Choice
+Non-TB Case	RSA.77	57	57	RSA Import	Pilot	737			RSA					
+Non-TB Case	RSA.78	58	58	RSA Import	Pilot	738			RSA	Withdrawn	10/14/2011			Investigator Choice
+TB Case	RSA.79	59	59	RSA Import	Pilot	739			RSA	Withdrawn	07/29/2011	Day 2	1	Investigator Choice
+Non-TB Case	RSA.80	60	60	RSA Import	Pilot	740			RSA					
+Non-TB Case	RSA.81	61	61	RSA Import	Pilot	741			RSA					
+Non-TB Case	RSA.82	48	48	RSA Import	Pilot	742			RSA					
+Non-TB Case	RSA.83	62	62	RSA Import	Pilot	743			RSA					
+Non-TB Case	RSA.84	63	63	RSA Import	Pilot	744			RSA					
+TB Case	RSA.85	64	64	RSA Import	Pilot	745			RSA	Withdrawn	08/26/2011	Day 2	1	Investigator Choice
+Non-TB Case	RSA.86	65	65	RSA Import	Pilot	746			RSA					
+Non-TB Case	RSA.87	66	66	RSA Import	Pilot	747			RSA					
+Non-TB Case	RSA.88	67	67	RSA Import	Pilot	748			RSA					
+Non-TB Case	RSA.89	68	68	RSA Import	Pilot	749			RSA					
+TB Case	RSA.90	69	69	RSA Import	Pilot	750			RSA	Withdrawn	09/09/2011	Day 2	1	Investigator Choice
+TB Case	RSA.91	70	70	RSA Import	Pilot	751	Unchanged Program Status		RSA	Completed Study	02/21/2012	Week 24	9	
+TB Case	RSA.92	71	71	RSA Import	Pilot	752	Cured	02/26/2012	RSA	Completed Study	03/23/2012	Week 24	9	
+TB Case	RSA.92	71	71	RSA Import	Pilot	752	Unchanged Program Status		RSA	Completed Study	03/23/2012	Week 24	9	
+TB Case	RSA.93	72	72	RSA Import	Pilot	753	Unchanged Program Status		RSA	Completed Study	03/23/2012	Week 24	9	
+TB Case	RSA.94	74	74	RSA Import	Pilot	754			RSA	Withdrawn	09/22/2011	Day 2	1	Investigator Choice
+TB Case	RSA.95	73	73	RSA Import	Pilot	755	Unchanged Program Status		RSA	Completed Study	02/29/2012	Week 24	9	
+TB Case	RSA.96	75	75	RSA Import	Pilot	756			RSA	Withdrawn	09/20/2011			Investigator Choice
+TB Case	RSA.97	76	76	RSA Import	Pilot	757	Unchanged Program Status		RSA	Completed Study	04/13/2012	Week 24	9	
+TB Case	RSA.98	77	77	RSA Import	Pilot	758	Unchanged Program Status		RSA	Completed Study	04/03/2012	Week 24	9	
+TB Case	RSA.99	78	78	RSA Import	Pilot	759	Unchanged Program Status		RSA	Completed Study	04/13/2012	Week 24	9	
+TB Case	RSA.100	79	79	RSA Import	Pilot	760			RSA	Withdrawn	11/04/2011			Subject Choice
+TB Case	RSA.101	80	80	RSA Import	Pilot	761	Unchanged Program Status		RSA	Completed Study	04/20/2012	Week 24	9	
+TB Case	RSA.102	81	81	RSA Import	Pilot	762	Unchanged Program Status		RSA	Completed Study	03/23/2012	Week 24	9	
+TB Case	RSA.103	82	82	RSA Import	Pilot	763	Unchanged Program Status		RSA					
+TB Case	RSA.104	83	83	RSA Import	Pilot	765	Cured	07/17/2012	RSA					
+TB Case	RSA.104	83	83	RSA Import	Pilot	765	Unchanged Program Status		RSA					
+TB Case	RSA.105	84	84	RSA Import	Pilot	766	Unchanged Program Status		RSA					
+TB Case	RSA.106	85	85	RSA Import	Pilot	767	Cured	07/27/2012	RSA	Completed Study	08/03/2012	Week 24	9	
+TB Case	RSA.106	85	85	RSA Import	Pilot	767	Unchanged Program Status		RSA	Completed Study	08/03/2012	Week 24	9	
+TB Case	RSA.107	87	87	RSA Import	Pilot	768	Unchanged Program Status		RSA	Completed Study	08/14/2012	Week 24	9	
+TB Case	RSA.108	88	88	RSA Import	Pilot	769	Cured	08/18/2012	RSA	Completed Study	08/18/2012	Week 24	9	
+TB Case	RSA.108	88	88	RSA Import	Pilot	769	Unchanged Program Status		RSA	Completed Study	08/18/2012	Week 24	9	
+TB Case	RSA.109	89	89	RSA Import	Pilot	770	Cured	08/13/2012	RSA	Completed Study	08/13/2012	Week 24	9	
+TB Case	RSA.109	89	89	RSA Import	Pilot	770	Unchanged Program Status		RSA	Completed Study	08/13/2012	Week 24	9	
+TB Case	RSA.110	86	86	RSA Import	Pilot	771	Unchanged Program Status		RSA	Completed Study	08/13/2012	Week 24	9	
+TB Case	RSA.111	90	90	RSA Import	Pilot	774	Cured	08/17/2012	RSA	Completed Study	08/17/2012	Week 24	9	
+TB Case	RSA.111	90	90	RSA Import	Pilot	774	Unchanged Program Status		RSA	Completed Study	08/17/2012	Week 24	9	
+TB Case	RSA.112	91	91	RSA Import	Pilot	784	Unchanged Program Status		RSA	Completed Study	09/14/2012	Week 24	9	
+TB Case	RSA.113	92	92	RSA Import	Pilot	785	Cured	10/05/2012	RSA	Completed Study	10/03/2012	Week 24	9	
+TB Case	RSA.113	92	92	RSA Import	Pilot	785	Unchanged Program Status		RSA	Completed Study	10/03/2012	Week 24	9	
+TB Case	RSA.114	93	93	RSA Import	Pilot	786	Unchanged Program Status		RSA	Completed Study	10/19/2012	Week 24	9	
+TB Case	RSA.115	94	94	RSA Import	Pilot	787			RSA	Withdrawn	04/18/2012			Investigator Choice
+TB Case	RSA.116	95	95	RSA Import	Pilot	788	Unchanged Program Status		RSA	Completed Study	10/02/2012	Week 24	9	
+TB Case	RSA.117	96	96	RSA Import	Pilot	789			RSA	Withdrawn	04/26/2012			Subject Choice
+TB Case	RSA.118	98	98	RSA Import	Pilot	790	Unchanged Program Status		RSA	Completed Study	10/19/2012	Week 24	9	
+TB Case	RSA.119	97	97	RSA Import	Pilot	791			RSA	Withdrawn	05/25/2012	Day 2	1	Subject Choice
+TB Case	RSA.120	99	99	RSA Import	Validation	792	Unchanged Program Status		RSA	Completed Study	11/30/2012	Week 24	9	
+TB Case	RSA.121	100	100	RSA Import	Validation	793	Unchanged Program Status		RSA	Completed Study	10/26/2012	Week 24	9	
+TB Case	RSA.122	101	101	RSA Import	Validation	794	Unchanged Program Status		RSA	Completed Study	11/30/2012	Week 24	9	
+TB Case	RSA.123	102	102	RSA Import	Validation	795	Unchanged Program Status		RSA	Completed Study	12/04/2012	Week 24	9	
+TB Case	RSA.124	105	105	RSA Import	Validation	796	Unchanged Program Status		RSA	Completed Study	11/30/2012	Week 24	9	
+TB Case	RSA.125	106	106	RSA Import	Validation	797	Unchanged Program Status		RSA					
+TB Case	RSA.126	103	103	RSA Import	Validation	801	Unchanged Program Status		RSA	Completed Study	12/10/2012	Week 24	9	
+TB Case	RSA.127	104	104	RSA Import	Validation	802	Unchanged Program Status		RSA	Completed Study	01/11/2013	Week 24	9	
+TB Case	RSA.128	107	107	RSA Import	Validation	803			RSA	Withdrawn	08/22/2012	Week 4	4	Investigator Choice
+TB Case	RSA.129	108	108	RSA Import	Validation	804	Unchanged Program Status		RSA					
+TB Case	RSA.130	111	111	RSA Import	Validation	805	Unchanged Program Status		RSA	Completed Study	01/16/2013	Week 24	9	
+TB Case	RSA.131	113	113	RSA Import	Validation	806			RSA	Withdrawn	08/31/2012	Week 4	4	Investigator Choice
+Non-TB Case	RSA.132	109	109	RSA Import	Validation	807			RSA					
+Non-TB Case	RSA.133	110	110	RSA Import	Validation	808			RSA					
+TB Case	RSA.134	112	112	RSA Import	Validation	809	Unchanged Program Status		RSA	Completed Study	02/08/2013	Week 24	9	
+Non-TB Case	RSA.135	114	114	RSA Import	Validation	810			RSA					
+Non-TB Case	RSA.136	115	115	RSA Import	Validation	811			RSA					
+Non-TB Case	RSA.137	116	116	RSA Import	Validation	812			RSA					
+Non-TB Case	RSA.138	117	117	RSA Import	Validation	813			RSA					
+Non-TB Case	RSA.139	118	118	RSA Import	Validation	814			RSA					
+Non-TB Case	RSA.140	119	119	RSA Import	Validation	815			RSA					
+Non-TB Case	RSA.141	120	120	RSA Import	Validation	816			RSA					
+TB Case	RSA.142	122	122	RSA Import	Validation	817			RSA	Withdrawn	11/02/2012	Week 4	4	Investigator Choice
+TB Case	RSA.143	123	123	RSA Import	Validation	818	Unchanged Program Status		RSA					
+Non-TB Case	RSA.144	127	127	RSA Import	Validation	819			RSA					
+Non-TB Case	RSA.145	121	121	RSA Import	Validation	820			RSA					
+TB Case	RSA.146	124	124	RSA Import	Validation	821	Unchanged Program Status		RSA					
+TB Case	RSA.147	128	128	RSA Import	Validation	822	Unchanged Program Status		RSA	Completed Study	04/03/2013	Week 24	9	
+TB Case	RSA.148	129	129	RSA Import	Validation	823	Unchanged Program Status		RSA	Completed Study	03/22/2013	Week 24	9	
+TB Case	RSA.149	131	131	RSA Import	Validation	826	Unchanged Program Status		RSA					
+TB Case	RSA.150	132	132	RSA Import	Validation	827	Unchanged Program Status		RSA					
+TB Case	RSA.151	135	135	RSA Import	Validation	828	Unchanged Program Status		RSA	Completed Study	03/28/2013	Week 24	9	
+TB Case	RSA.152	136	136	RSA Import	Validation	829	Unchanged Program Status		RSA	Completed Study	04/05/2013	Week 24	9	
+TB Case	RSA.153	125	125	RSA Import	Validation	830	Unchanged Program Status		RSA	Completed Study	04/12/2013	Week 24	9	
+TB Case	RSA.154	130	130	RSA Import	Validation	831	Unchanged Program Status		RSA	Completed Study	05/03/2013	Week 24	9	
+TB Case	RSA.155	133	133	RSA Import	Validation	832	Unchanged Program Status		RSA	Completed Study	05/03/2013	Week 24	9	
+TB Case	RSA.156	134	134	RSA Import	Validation	833	Unchanged Program Status		RSA	Completed Study	04/12/2013	Week 24	9	
+TB Case	RSA.157	137	137	RSA Import	Validation	834	Unchanged Program Status		RSA					
+TB Case	RSA.158	138	138	RSA Import	Validation	835	Unchanged Program Status		RSA					
+TB Case	RSA.159	141	141	RSA Import	Validation	836	Unchanged Program Status		RSA					
+TB Case	RSA.160	126	126	RSA Import	Validation	837	Unchanged Program Status		RSA					
+TB Case	RSA.161	139	139	RSA Import	Validation	838	Unchanged Program Status		RSA					
+TB Case	RSA.162	140	140	RSA Import	Validation	839	Unchanged Program Status		RSA					
+TB Case	RSA.163	142	142	RSA Import	Validation	840	Unchanged Program Status		RSA					
+TB Case	RSA.164	143	143	RSA Import	Validation	841			RSA	Withdrawn	02/15/2013	Week 4	4	Investigator Choice
+TB Case	RSA.165	145	145	RSA Import	Validation	842	Unchanged Program Status		RSA					
+TB Case	RSA.166	144	144	RSA Import	Validation	915	Unchanged Program Status		RSA					
+TB Case	RSA.167	146	146	RSA Import	Validation	916	Unchanged Program Status		RSA					
+TB Case	RSA.168	147	147	RSA Import	PrePilot	917	Unchanged Program Status		RSA					
+TB Case	RSA.169	149	149	RSA Import	PrePilot	918	Unchanged Program Status		RSA					
+TB Case	RSA.170	150	150	RSA Import	PrePilot	919	Unchanged Program Status		RSA					
+TB Case	RSA.171	151	151	RSA Import	PrePilot	920			RSA	Withdrawn	03/01/2013	Week 4	4	Investigator Choice
+TB Case	RSA.172	152	152	RSA Import	PrePilot	921	Unchanged Program Status		RSA					
+TB Case	RSA.173	153	153	RSA Import	PrePilot	922	Unchanged Program Status		RSA					
+TB Case	RSA.174	154	154	RSA Import	PrePilot	923	Unchanged Program Status		RSA					
+TB Case	RSA.175	155	155	RSA Import	PrePilot	924	Unchanged Program Status		RSA					
+TB Case	RSA.176	156	156	RSA Import	PrePilot	925	Unchanged Program Status		RSA					
+TB Case	RSA.177	159	159	RSA Import	PrePilot	926	Unchanged Program Status		RSA					
+Non-TB Case	RSA.178	148	148	RSA Import	PrePilot	927			RSA					
+Non-TB Case	RSA.179	157	157	RSA Import	PrePilot	928			RSA					
+Non-TB Case	RSA.180	158	158	RSA Import	PrePilot	929			RSA					
+TB Case	RSA.181	160	160	RSA Import	PrePilot	930			RSA					
+TB Case	RSA.182	161	161	RSA Import	PrePilot	931			RSA					
+TB Case	RSA.183	162	162	RSA Import	PrePilot	932			RSA					
+	RSA.184	163	163	RSA Import		933			RSA					
+TB Case	RSA.185	164	164	RSA Import	PrePilot	934			RSA					
+TB Case	RSA.186	165	165	RSA Import	PrePilot	935			RSA	Withdrawn	04/05/2013	Day 2	1	Investigator Choice
+TB Case	RSA.187	167	167	RSA Import	PrePilot	936			RSA					
+TB Case	RSA.188	168	168	RSA Import	PrePilot	937			RSA					
+TB Case	RSA.189	169	169	RSA Import	PrePilot	938			RSA					
+TB Case	RSA.190	170	170	RSA Import	PrePilot	939			RSA					
+TB Case	RSA.191	171	171	RSA Import	PrePilot	940			RSA					

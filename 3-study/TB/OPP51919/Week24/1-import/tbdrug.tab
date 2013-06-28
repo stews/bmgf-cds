@@ -1,0 +1,1198 @@
+Dose (single does in mg)	Drug	Frequency	Route	parent field id	parent record id	record external id	record external source	record id
+300	Isoniazid	qd	PO	242	367			2962
+600	Rifampin	qd	PO	242	367			2963
+1000	Ethambutol HCl	qd	PO	242	367			2964
+300	Isoniazid	qd	PO	242	369			3338
+600	Rifampin	qd	PO	242	369			3339
+1200	Ethambutol HCl	qd	PO	242	369			3340
+1500	Pyrazinamide	qd	PO	242	369			3341
+300	Isoniazid	qd	po	242	375			9485
+600	Rifampin	qd	po	242	375			9486
+1200	Ethambutol HCl	qd	po	242	375			9487
+1500	Pyrazinamide	qd	po	242	375			9488
+300	Isoniazid	qd	po	242	376			9885
+600	Rifampin	qd	po	242	376			9886
+1200	Ethambutol HCl 	qd	po	242	376			9887
+1500	Pyrazinamide	qd	po	242	376			9888
+300	Isoniazid	qd	po	242	377			9851
+600	Rifampicin	qd	po	242	377			9852
+1500	Pyraxinamide	qd	po	242	377			9853
+800	Ethambutol HCl	qd	po	242	377			9854
+400	Moxifloxacin HCl 	qd	po	242	378			9867
+500	Cycloserine	bid	po	242	378			9868
+500	Prothionamide	bid	po	242	378			9869
+600	Rifampicin	qd	po	242	378			9870
+1500	Pyrazmamide	qd	po	242	378			9871
+750	Amikacin sulfate inj	qd	IV	242	378			9872
+300	Isoniazid	qd	po	242	380			10319
+600	Rifampicin	qd	po	242	380			10320
+1200	Ethambutol HCl	qd	po	242	380			10321
+1500	Pyrazinamide	qd	po	242	380			10322
+750	Streptomycin sulface inj	qd	IM	242	380			10323
+300	Isoniazid	qd	po	242	383			11204
+800	Ethambutol HCl	qd	po	242	383			11205
+450	Rifampicin	qd	po	242	383			11206
+1000	Pyrazinamide	qd	po	242	383			11207
+750	Streptomycin sulfate inj	qd	IM	242	384			11654
+300	Isoniazid	qd	po	242	384			11655
+450	Ripampicin	qd	po	242	384			11656
+1000	Ethambutol HCl	qd	po	242	384			11657
+1000	Pyrazinamide	qd	po	242	384			11658
+300	Isoniazid	qd	po	242	385			13493
+800	Ethambutol HCl	qd	po	242	385			13494
+450	Rifampicin	qd	po	242	385			13495
+1000	Pyrazinamide	qd	po	242	385			13496
+300	Isoniazid	qd	po	242	386			13488
+600	Rifampicin	qd	po	242	386			13489
+800	Ethambutol HCl	qd	po	242	386			13490
+1500	Pyrazinamide	qd	po	242	386			13491
+1000	Streptomycin sulfate inj	qd	IM	242	386			13492
+300	Isoniazid	qd	po	242	387			14548
+600	Rifampicin	qd	po	242	387			14549
+1200	Ethambutol HCl	qd	po	242	387			14550
+1500	Pyrazinamide	qd	po	242	387			14551
+500	Clarithromycin	bid	po	242	388			15613
+250	Prothionamide	bid	po	242	388			15614
+500	Cycloserine	bid	po	242	388			15615
+1000	Streptomycin sulfate inj 	qd	IM	242	388			15616
+300	Isoniazid	qd	po	242	391			16657
+450	Rifampicin	qd	po	242	391			16658
+800	Ethambutol HCl	qd	po	242	391			16659
+1000	Pyrazinamide	qd	po	242	391			16660
+300	Isoniazid	qd	po	242	392			16649
+450	Rifampicin	qd	po	242	392			16650
+800	Ethambutol HCl	qd	po	242	392			16651
+1000	Pyrazinamide	qd	po	242	392			16652
+300	Isoniazid	qd	po	242	393			16679
+600	Rifampicin	qd	po	242	393			16680
+1200	Ethambutol HCl	qd	po	242	393			16681
+1500	Pyrazinamide	qd	po	242	393			16682
+300	Isoniazid	qd	po	242	394			17289
+300	Rifampicin	qd	po	242	394			17290
+800	Ethambutol HCl 	qd	po	242	394			17291
+1000	Pyrazinamide	qd	po	242	394			17292
+3	Rifafour	 daily	1	242	606	1	RSA Import	18958
+3	Rifafour	daily	1	242	607	11	RSA Import	18959
+3	Rifafour	daily	1	242	608	181	RSA Import	18960
+1000	Streptomycin	1	2	242	609	191	RSA Import	18961
+2	Rifafour	daily	1	242	610	201	RSA Import	18962
+1000	Streptomycin	daily	2	242	612	241	RSA Import	18963
+1000	Streptomycin	Daily	2	242	615	301	RSA Import	18965
+750	Streptomycin	daily	2	242	616	361	RSA Import	18970
+750	Stretomycin	daily	2	242	617	401	RSA Import	18974
+1000	Streptomycin	daily	2	242	618	251	RSA Import	18964
+750	Streptomycin	daily	2	242	621	321	RSA Import	18967
+4	Rifafour	daily	1	242	622	331	RSA Import	18968
+4	Rifafour	daily	1	242	623	341	RSA Import	18969
+750	Streptomycin	daily	2	242	625	371	RSA Import	18971
+750	Streptomycin	daily	2	242	626	381	RSA Import	18972
+750	Streptomycin	daily	2	242	627	391	RSA Import	18973
+4	Rimstar	daily	1	242	628	411	RSA Import	18975
+1000	Streptomycin	daily	2	242	629	421	RSA Import	18976
+750	Streptomycin	daily	2	242	630	431	RSA Import	18977
+750	Streptomycin	daily	2	242	631	441	RSA Import	18978
+5	Rifafour	daily	1	242	632	451	RSA Import	18979
+750	Streptomycin	daily	2	242	636	311	RSA Import	18966
+4	Rimstar	daily	1	242	637	461	RSA Import	18980
+5	Rimstar	daily	1	242	638	471	RSA Import	18981
+3	Rifafour	daily	1	242	641	521	RSA Import	18984
+1000	Streptomycin	daily	2	242	642	501	RSA Import	18982
+4	Rimstar	daily	1	242	643	511	RSA Import	18983
+3	Rifafour	daily	1	242	649	581	RSA Import	18985
+750	Streptomycin	daily	2	242	650	591	RSA Import	18986
+4	Rifafour	daily	1	242	651	601	RSA Import	18987
+3	Rifafour	daily	1	242	656	661	RSA Import	18988
+4	Rifafour	daily	1	242	657	671	RSA Import	18989
+4	Rifafour	daily	1	242	658	681	RSA Import	18990
+3	Rifafour	daily	1	242	659	691	RSA Import	18991
+1000	Streptomycin	daily	2	242	660	701	RSA Import	18992
+750	Streptomycin	daily	2	242	661	711	RSA Import	18993
+4	Rifafour	daily	1	242	662	721	RSA Import	18994
+4	Rifafour	daily	1	242	663	729	RSA Import	18995
+3	Rifafour	daily	1	242	666	753	RSA Import	18996
+3	Rifafour	daily	1	242	672	793	RSA Import	18997
+4	Rifafour	daily	1	242	677	833	RSA Import	18998
+3	Rifafour	daily	1	242	678	841	RSA Import	18999
+3	Rifafour	daily	1	242	679	849	RSA Import	19000
+3	Rifafour	daily	1	242	680	857	RSA Import	19001
+3	Rifafour	daily	1	242	681	865	RSA Import	19002
+3	Rifafour	daily	1	242	682	873	RSA Import	19003
+750	Streptomycin	daily	2	242	683	881	RSA Import	19004
+1000	Streptomycin	daily	2	242	684	889	RSA Import	19005
+3	Rifafour	daily	1	242	685	897	RSA Import	19006
+4	Rifafour	daily	1	242	686	905	RSA Import	19007
+4	Rifafour	daily	1	242	687	913	RSA Import	19008
+750	Streptomycin	daily	2	242	688	921	RSA Import	19009
+3	Rifafour	daily	1	242	689	929	RSA Import	19010
+4	Rifafour	daily	1	242	691	937	RSA Import	19011
+4	Rifafour	daily	1	242	692	945	RSA Import	19012
+750	Streptomycin	daily	2	242	693	953	RSA Import	19013
+4	Rifafour	daily	1	242	694	961	RSA Import	19014
+3	Rifafour	daily	1	242	695	978	RSA Import	19016
+3	Rifafour	daily	1	242	696	986	RSA Import	19017
+3	Rifafour	Daily	1	242	697	994	RSA Import	19018
+3	Rifafour	daily	1	242	698	969	RSA Import	19015
+3	Rifafour	daily	1	242	699	1002	RSA Import	19019
+3	Rifafour	daily	1	242	700	1010	RSA Import	19020
+3	Rifafour	Daily	1	242	701	1018	RSA Import	19021
+3	Rifafour	daily	1	242	702	1026	RSA Import	19022
+750	Streptomycin	daily	2	242	703	1032	RSA Import	19023
+750	Streptomycin	daily	2	242	704	1038	RSA Import	19024
+3	Rifafour	daily	1	242	705	1044	RSA Import	19025
+3	Rifafour	daily	1	242	706	1056	RSA Import	19027
+4	Rifafour	daily	1	242	707	1062	RSA Import	19028
+750	Streptomycin	daily	2	242	708	1068	RSA Import	19029
+3	Rifafour	daily	1	242	709	1074	RSA Import	19030
+3	Rifafour	daily	1	242	710	1080	RSA Import	19031
+4	Rifafour	daily	1	242	711	1098	RSA Import	19034
+3	Rifafour	daily	1	242	712	1107	RSA Import	19035
+2	Rifafour	daily	1	242	713	1086	RSA Import	19032
+4	Rifafour	daily	1	242	714	1092	RSA Import	19033
+3	Rifafour	daily	1	242	715	1162	RSA Import	19036
+3	Rifafour	daily	1	242	716	1172	RSA Import	19037
+3	Rifafour	daily	1	242	717	1315	RSA Import	19038
+3	Rifafour	Daily	1	242	718	1335	RSA Import	19040
+4	Rifafour	daily	1	242	729	1425	RSA Import	19041
+3	Rifafour	daily	1	242	730	1435	RSA Import	19042
+3	Rifafour	daily	1	242	731	1445	RSA Import	19043
+4	Rifafour	daily	1	242	733	1485	RSA Import	19046
+4	Rifafour	daily	1	242	734	1495	RSA Import	19047
+3	Rifafour	daily	1	242	735	1515	RSA Import	19049
+4	Rifafour	daily	1	242	736	1565	RSA Import	19053
+4	Rifafour	daily	1	242	737	1505	RSA Import	19048
+3	Rifafour	daily	1	242	738	1535	RSA Import	19050
+4	Rifafour	daily	1	242	739	1545	RSA Import	19051
+3	Rifafour	daily	1	242	740	1615	RSA Import	19058
+5	Rifafour	daily	1	242	741	1455	RSA Import	19044
+3	Rifafour	daily	1	242	742	1465	RSA Import	19045
+750	Streptomycin	daily	2	242	743	1555	RSA Import	19052
+3	Rifafour	daily	1	242	744	1585	RSA Import	19055
+750	Streptomycin	daily	2	242	745	1595	RSA Import	19056
+3	Rifafour	daily	1	242	746	1605	RSA Import	19057
+750	Streptomycin	daily	2	242	747	1625	RSA Import	19059
+3	Rifafour	daily	1	242	749	1050	RSA Import	19026
+750	Streptomycin	daily	2	242	750	1325	RSA Import	19039
+5	Rifafour	daily	1	242	751	1575	RSA Import	19054
+3	Rifafour	daily	1	242	752	1635	RSA Import	19060
+3	Rifafour	daily	1	242	753	1655	RSA Import	19062
+3	Rifafour	daily	1	242	754	1645	RSA Import	19061
+750	Streptomycin	daily	2	242	755	1665	RSA Import	19063
+3	Rifafour	daily	1	242	756	1675	RSA Import	19064
+2	Rifafour	daily	1	242	758	1695	RSA Import	19065
+3	Rifafour	daily	1	242	759	1705	RSA Import	19066
+3	Rifafour	daily	1	242	760	1715	RSA Import	19067
+3	Rifafour	daily	1	242	761	1725	RSA Import	19068
+4	Rifafour	daily	1	242	762	1735	RSA Import	19069
+3	Rifafour	daily	1	242	763	1867	RSA Import	19070
+4	Rifafour	daily	1	242	764	1878	RSA Import	19071
+3	Rifafour	daily	1	242	765	1911	RSA Import	19072
+750	Prothionamide	bid	PO	372	3295			2965
+400	Moxifloxacin	qd	PO	372	3295			2966
+750	Cycloserine	bid	PO	372	3295			2967
+1000	Streptomycin sulfate	qd	IM	372	3295			2968
+9900	P-Aminosalicylic calcium	bid	PO	372	3295			2969
+750	Prothionamide	bid	PO	372	3296			3328
+400	Moxifloxacin	qd	PO	372	3296			3329
+750	Cycloserine	bid	PO	372	3296			3330
+1000	Streptomycin sulfate	qd	IM	372	3296			3331
+9900	P-Aminosalicylic calcium	bid	PO	372	3296			3332
+750	Prothionamide	bid	PO	372	3297			3333
+400	Moxifloxacin	qd	PO	372	3297			3334
+750	Cycloserine	bid	PO	372	3297			3335
+1000	Streptomycin sulfate	qd	IM	372	3297			3336
+9900	P-Aminosalicylic calcium	bid	PO	372	3297			3337
+750	Prothionamide	bid	PO	372	3298			4010
+400	Moxifloxacin	qd	PO	372	3298			4011
+750	Cycloserine	bid	PO	372	3298			4012
+1000	Streptomycin sulfate	qd	IM	372	3298			4013
+9900	P-Aminosalicylic calcium	bid	PO	372	3298			4014
+750	Prothionamide	bid	PO	372	3300			4938
+750	Cycloserine	bid	PO	372	3300			4939
+9900	P-aminosalicylic calcium	bid	PO	372	3300			4940
+200	Levofloxacin	qd	PO	372	3300			4941
+1000	Kanamycin	qd	IM	372	3300			4942
+300	Isoniazid	qd	PO	372	3313			3342
+600	Rifampin	qd	PO	372	3313			3343
+1200	Ethambutol HCl	qd	PO	372	3313			3344
+1500	Pyrazinamide	qd	PO	372	3313			3345
+300	Isoniazid	qd	PO	372	3314			3779
+600	Rifampin	qd	PO	372	3314			3780
+1200	Ethambutol HCl	qd	PO	372	3314			3781
+1500	Pyrazinamide	qd	PO	372	3314			3782
+300	Isoniazid	qd	PO	372	3315			3783
+600	Rifampin	qd	PO	372	3315			3784
+1200	Ethambutol HCl	qd	PO	372	3315			3785
+1500	Pyrazinamide	qd	PO	372	3315			3786
+300	Isoniazid	qd	PO	372	3316			3787
+600	Rifampin	qd	PO	372	3316			3788
+1200	Ethambutol HCl	qd	PO	372	3316			3789
+1500	Pyrazinamide	qd	PO	372	3316			3790
+300	Isoniazid	qd	PO	372	3317			4934
+600	Rifampin	qd	PO	372	3317			4935
+1200	Ethambutol HCl	qd	PO	372	3317			4936
+1500	Pyrazinamide	qd	PO	372	3317			4937
+300	Isoniazid	qd	po	372	3367			9909
+600	Rifampicin	qd	po	372	3367			9910
+1200	Ethambutol HCl	qd	po	372	3367			9911
+1500	Pyrazinamide	qd	po	372	3367			9912
+300	Isoniazid	qd	po	372	3368			9913
+600	Rifampicin	qd	po	372	3368			9914
+1200	Ethambutol HCl	qd	po	372	3368			9915
+1500	Pyrazinamide	qd	po	372	3368			9916
+1000	Kanamycin	qd	IM	372	3368			11675
+1000	Kanamycin	qd	IM	372	3369			11674
+300	Isoniazid	qd	po	372	3369			9917
+600	Rifampicin	qd	po	372	3369			9918
+1200	Ethambutol HCl	qd	po	372	3369			9919
+1500	Pyrazinamide	qd	po	372	3369			9920
+300	Isoniazid	qd	po	372	3370			9921
+600	Rifampicin	qd	po	372	3370			9922
+1200	Ethambutol HCl	qd	po	372	3370			9923
+1500	Pyrazinamide	qd	po	372	3370			9924
+1000	Kanamycin	qd	IM	372	3370			11673
+1000	Kanamycin	qd	IM	372	3371			11672
+300	Isoniazid	qd	po	372	3371			9925
+600	Rifampicin	qd	po	372	3371			9926
+1200	Ethambutol HCl	qd	po	372	3371			9927
+1500	Pyrazinamide	qd	po	372	3371			9928
+300	Isoniazid	qd	po	372	3372			9929
+600	Rifampicin	qd	po	372	3372			9930
+1500	Pyrazinamide	qd	po	372	3372			9931
+1200	Ethambutol HCl	qd	po	372	3372			9932
+1000	Kanamycin	qd	IM	372	3372			11671
+1000	kanamycin	qd	IM	372	3373			11670
+300	Isoniazid	qd	po	372	3373			10316
+600	Rifampicin	qd	po	372	3373			10317
+1200	Ethambutol HCl 	qd	po	372	3373			10318
+1500	Pyrazinamide	qd	po	372	3373			10329
+300	Isoniazid	qd	po	372	3374			10348
+600	Rifampicin	qd	po	372	3374			10349
+1200	Ethambutol HCl	qd	po	372	3374			10350
+1500	Pyrazinamide	qd	po	372	3374			10351
+1000	Kanamycin	IM	po	372	3374			11669
+400	Isoniazid	qd	po	372	3375			12130
+600	Rifampicin	qd	po	372	3375			12131
+1000	Pyrazinamide	qd	po	372	3375			12132
+300	Isoniazid	qd	po	372	3376			9889
+600	Rifampin	qd	po	372	3376			9890
+1500	Pyrazinamide	qd	po	372	3376			9891
+1200	Ethambutol HCl	qd	po	372	3376			9892
+300	Isiniazid	qd	po	372	3377			9893
+600	Rifampin	qd	po	372	3377			9894
+1500	Pyrazinamide	qd	po	372	3377			9895
+1200	Ethambutol HCl	qd	po	372	3377			9896
+300	Isoniazid	qd	po	372	3378			9897
+600	Rifampin	qd	po	372	3378			9898
+1500	Pyrazinamide	qd	po	372	3378			9899
+1200	Ethambutol HCl	qd	po	372	3378			9900
+300	Isoniazid	qd	po	372	3379			9901
+600	Rifampicin	qd	po	372	3379			9902
+1500	Pyrazinamide	qd	po	372	3379			9903
+1200	Ethambutol	qd	po	372	3379			9904
+300	Isoniazid	qd	po	372	3380			9905
+600	Rifampicin	qd	po	372	3380			9906
+1500	Pyrazinamide	qd	po	372	3380			9907
+1200	Ethambutol	qd	po	372	3380			9908
+300	Isoniazid	qd	po	372	3381			10340
+600	Rifampicin	qd	po	372	3381			10341
+1500	Pyrazinamide	qd	po	372	3381			10342
+1200	Ethambutol HCl	qd	po	372	3381			10343
+600	Rifampicin	qd	po	372	3382			10344
+1500	Pyrazinamide	qd	po	372	3382			10345
+1200	Ethambutol HCl	qd	po	372	3382			10346
+300	Isoniazid	qd	po	372	3382			10347
+600	Rifampicin	qd	po	372	3383			11191
+1500	Pyrazinamide	qd	po	372	3383			11192
+1200	Ethambutol HCl	qd	po	372	3383			11193
+300	Isoniazid	qd	po	372	3383			11194
+300	Isoniazid	qd	po	372	3384			13511
+600	Rifampicin	qd	po	372	3384			13512
+1200	Ethambutol HCl	qd	po	372	3384			13513
+300	Isoniazid	qd	po	372	3385			9855
+600	Rifampin	qd	po	372	3385			9856
+1500	Pyrazinamide	qd	po	372	3385			9857
+800	Ethambutol HCl	qd	po	372	3385			9858
+300	Isoniazid	qd	po	372	3386			9859
+600	Ripampicin	qd	po	372	3386			9860
+1500	Pyrazinamide	qd	po	372	3386			9861
+800	Ethambutol HCl	qd	po	372	3386			9862
+300	Isoniazid	qd	po	372	3387			9863
+600	Rifampicin	qd	po	372	3387			9864
+1500	Pyrazmamide	qd	po	372	3387			9865
+800	Ethambutol HCl	qd	po	372	3387			9866
+300	Isoniazid	qd	po	372	3388			10352
+600	Rifampicin	qd	po	372	3388			10353
+1500	Pyrazinamide	qd	po	372	3388			10354
+800	Ethambutol  HCl	800	qd	372	3388			10355
+300	Isoniazid	qd	po	372	3389			10356
+600	Rifampicin	qd	po	372	3389			10357
+1500	Pyrazinamide	qd	po	372	3389			10358
+800	Ethambutol	qd	po	372	3389			10359
+300	Isoniazid	qd	po	372	3390			10360
+600	Rifampicin	qd	po	372	3390			10361
+1500	Pyrazinamide	qd	po	372	3390			10362
+800	Ethambutol HCl	qd	po	372	3390			10363
+300	Isoniazid	qd	po	372	3391			10364
+600	Rifampicin	qd	po	372	3391			10365
+1500	Pyrazinamide	qd	po	372	3391			10366
+800	Ethambutol HCl 	qd	po	372	3391			10367
+300	Isoniazid	qd	po	372	3392			11195
+600	Rifampicin	qd	po	372	3392			11196
+1500	Pyrazinamide	qd	po	372	3392			11197
+800	Ethambutol HCl	qd	po	372	3392			11198
+300	Isoniazid	qd	po	372	3393			13522
+600	Rifampicin	qd	po	372	3393			13523
+800	Ethambutol HCl	qd	po	372	3393			13524
+1500	Pyrazinamide	qd	po	372	3393			13525
+400	Moxifloxacin HCl	qd	po	372	3394			9873
+500	Cycloserine	bid	po	372	3394			9874
+500	Prothionamide	bid	po	372	3394			9875
+600	Rifampicin	qd	po	372	3394			9876
+1500	Pyrazinamide	qd	po	372	3394			9877
+750	Amikacin	qd	po	372	3394			9878
+750	Amikacin sulfate inj	qd	po	372	3395			9879
+400	Moxifloxacm HCl	qd	po	372	3395			9880
+500	Cyclocerine	bid	po	372	3395			9881
+500	Prothionamide	bid	po	372	3395			9882
+600	Rifampicin	qd	po	372	3395			9883
+1500	Pyrazinamide	qd	po	372	3395			9884
+300	Isoniazid	qd	po	372	3412			10324
+600	Rifampicin	qd	po	372	3412			10325
+1200	Ethambutol HCl	qd	po	372	3412			10326
+1500	Pyrazinamide	qd	po	372	3412			10327
+750	Streptomycin sulfate	qd	IM	372	3412			10328
+300	Isoniazid	qd	po	372	3413			10330
+600	Rifampicin	qd	po	372	3413			10331
+1200	Ethambutol HCl	qd	po	372	3413			10332
+1500	Pyrazinamide	qd	po	372	3413			10333
+150	Streptomycin sulfate inj	qd	IM	372	3413			10334
+300	Isoniazid	qd	po	372	3414			10335
+600	Rifampicin	qd	po	372	3414			10336
+1200	Ethambutol HCl 	qd	po	372	3414			10337
+1500	Pyrazinamide	qd	po	372	3414			10338
+750	Streptomycin sulfate inj	qd	IM	372	3414			10339
+300	Isoniazid	qd	po	372	3415			11186
+600	Rifampicin	qd	po	372	3415			11187
+1200	Ethambutol HCl	qd	po	372	3415			11188
+1500	Pyrazinamide	qd	po	372	3415			11189
+750	Streptomycin sulfate inj	qd	IM	372	3415			11190
+300	Isoniazid	qd	po	372	3416			11199
+600	Rifampicin	qd	po	372	3416			11200
+1200	Ethambutol HCl	qd	po	372	3416			11201
+1500	Pyrazynamide	qd	po	372	3416			11202
+750	Streptomycin sulfate inj	qd	IM	372	3416			11203
+300	Isoniazid	qd	po	372	3417			11216
+600	Rifampicine	qd	po	372	3417			11217
+1200	Ethambutol HCl	qd	po	372	3417			11218
+1500	Prazynamide	qd	po	372	3417			11219
+750	Streptomycin sulfate inj	qd	IM	372	3417			11220
+300	Isoniazid	qd	po	372	3418			11649
+600	Rifampicin	qd	po	372	3418			11650
+1200	Ethambutol HCl	qd	po	372	3418			11651
+1500	Pyrazynamide	qd	po	372	3418			11652
+750	Streptomycin sulfate inj	qd	IM	372	3418			11653
+300	Isoniazid	qd	po	372	3419			12116
+600	Rifampicin	qd	po	372	3419			12117
+1200	Ethambutol HCl 	qd	po	372	3419			12118
+1500	Pyrazinamide	qd	po	372	3419			12119
+750	Streptomycin sulfate inj	qd	IM	372	3419			12120
+300	Isoniazid	qd	po	372	3420			14565
+600	Rifampicin	qd	po	372	3420			14566
+1200	Ethambutol HCl	qd	po	372	3420			14567
+1500	Pyrazinamide	qd	po	372	3420			14568
+300	Isoniazid	qd	po	372	3439			11208
+800	Ethambutol HCl	qd	po	372	3439			11209
+450	Rifampicin	qd	po	372	3439			11210
+1000	Pyrazinamide	qd	po	372	3439			11211
+300	Isoniazid	qd	po	372	3440			11212
+800	Ethambutol HCl	qd	po	372	3440			11213
+450	Rifampicin	qd	po	372	3440			11214
+1000	Pyrazinamide	qd	po	372	3440			11215
+300	Isoniazid	qd	po	372	3441			11221
+800	Ethambutol HCl	qd	po	372	3441			11222
+450	Rifampicin	qd	po	372	3441			11223
+1000	Pyrazinamide	qd	po	372	3441			11224
+300	Isoniazid	qd	po	372	3442			11645
+800	Ethambutol HCl	qd	po	372	3442			11646
+450	Rifampicin	qd	po	372	3442			11647
+1000	Pyrazinamide	qd	po	372	3442			11648
+300	Isoniazid	qd	po	372	3443			12121
+450	Rifampicin	qd	po	372	3443			12122
+800	Ethambutol  HCl	qd	po	372	3443			12123
+1250	Pyrazinamide	qd	po	372	3443			12124
+300	Isoniazid	qd	po	372	3444			12133
+450	Rifampicin	qd	po	372	3444			12134
+800	Ethambutol HCl	qd	po	372	3444			12135
+1250	Pyrazinamide	qd	po	372	3444			12136
+300	Isoniazid	qd	po	372	3445			13514
+450	Rifampicin	qd	po	372	3445			13515
+800	Ethambutol HCl	qd	po	372	3445			13516
+1250	Pyrazinamide	qd	po	372	3445			13517
+300	Isoniazid	qd	po	372	3446			13526
+450	Rifampicin	qd	po	372	3446			13527
+800	Ethambutol HCl	qd	po	372	3446			13528
+1250	Pyrazinamide	qd	po	372	3446			13529
+300	Isoniazid	qd	po	372	3447			15654
+450	Rifampicin	qd	po	372	3447			15655
+800	Ethambutol HCl	qd	po	372	3447			15656
+750	Pyrazinamide	qd	po	372	3447			15657
+750	Streptomycin sulfate inj	qd	IM	372	3448			11659
+300	Isoniazid	qd	po	372	3448			11660
+450	Rifampicin	qd	po	372	3448			11661
+800	Ethambutol HCl 	qd	po	372	3448			11662
+1000	Pyrazinamide	qd	po	372	3448			11663
+750	Streptomycin sulfate inj	qd	IM	372	3449			11664
+300	Isoniazid	qd	po	372	3449			11665
+450	Rifampicin	qd	po	372	3449			11666
+800	Ethambutol HCl 	qd	po	372	3449			11667
+1000	Pyrazynamide	qd	po	372	3449			11668
+300	Isoniazid	qd	po	372	3450			12125
+450	Rifampicin	qd	po	372	3450			12126
+800	Ethambutol HCl 	qd	po	372	3450			12127
+1000	Pyrazinamide	qd	po	372	3450			12128
+750	Streaptomycin sulfate inj	qd	IM	372	3450			12129
+300	Isoniazid	qd	po	372	3451			12137
+450	Rifampicin	qd	po	372	3451			12138
+800	Ethambutol HCl	qd	po	372	3451			12139
+1000	Pyrazinamide	qd	po	372	3451			12140
+750	Streptomycin sulfate inj	qd	IM	372	3451			12141
+300	Isoniazid	qd	po	372	3452			13506
+450	Rifampicin	qd	po	372	3452			13507
+800	Ethambutol HCl	qd	po	372	3452			13508
+1000	Pyrazinamide	qd	po	372	3452			13509
+1000	Kanamycin sulfate	qd	IM	372	3452			13510
+300	Isoniazid	qd	po	372	3453			13535
+450	Rifampicin	qd	po	372	3453			13536
+800	Ethambutol HCl	qd	po	372	3453			13537
+1000	Pyrazinamide	qd	po	372	3453			13538
+1000	Kanamycin sulfate	qd	IM	372	3453			13539
+300	Isoniazid	qd	po	372	3454			14037
+450	Rifampicin	qd	po	372	3454			14038
+800	Ethambutol HCl	qd	po	372	3454			14039
+1000	Pyrazinamide	qd	po	372	3454			14040
+1000	Kanamycin sulfate	qd	po	372	3454			14041
+300	Isoniazid	qd	po	372	3455			14042
+450	Rifampicin	qd	po	372	3455			14043
+800	Ethambutol HCl	qd	po	372	3455			14044
+1000	Pyrazinamide	qd	po	372	3455			14045
+1000	Kanamycin sulfate	qd	IM	372	3455			14046
+300	Isoniazid	qd	po	372	3456			16666
+600	Rifampicin	qd	po	372	3456			16667
+800	Ethambutol HCl	qd	po	372	3456			16668
+300	Isoniazid	qd	po	372	3457			13502
+800	Ethambutol HCl 	qd	po	372	3457			13503
+450	Rifampicin	qd	po	372	3457			13504
+1000	Pyrazinamide	qd	po	372	3457			13505
+300	Isoniazid	qd	po	372	3458			13518
+450	Rifampicin	qd	po	372	3458			13519
+800	Ethambutol HCl	qd	po	372	3458			13520
+1000	Pyrazinamide	qd	po	372	3458			13521
+300	Isoniazid	qd	po	372	3459			14019
+450	Rifampicin	qd	po	372	3459			14020
+800	Ethambutol HCl	qd	po	372	3459			14021
+1000	Pyrazinamide	qd	po	372	3459			14022
+300	Isoniazid	qd	po	372	3460			14028
+800	Ethambutol HCl	qd	po	372	3460			14029
+450	Rifampicin	qd	po	372	3460			14030
+1000	Pyrazinamide	qd	po	372	3460			14031
+300	Isoniazid	qd	po	372	3461			14556
+450	Rifampicin	qd	po	372	3461			14557
+800	Ethambutol HCl	qd	po	372	3461			14558
+1000	Pyrazinamide	qd	po	372	3461			14559
+300	Isoniazid	qd	po	372	3462			15622
+800	Rifampicin	qd	po	372	3462			15623
+450	Ethambutol HCl	qd	po	372	3462			15624
+1000	Pyrazinamide	qd	po	372	3462			15625
+300	Isoniazid	qd	po	372	3463			15626
+800	Rifampicin	qd	po	372	3463			15627
+450	Ethambutol HCl 	qd	po	372	3463			15628
+1000	Pyrazinamide	qd	po	372	3463			15629
+300	Isoniazid	qd	po	372	3464			15635
+450	Rifampicin	qd	po	372	3464			15636
+800	Ethambutol HCl	qd	po	372	3464			15637
+1000	Pyrazinamide	qd	po	372	3464			15638
+300	Isoniazid	qd	po	372	3465			17299
+450	Rifampicin	qd	po	372	3465			17300
+800	Ethambutol HCl	qd	po	372	3465			17301
+1000	Pyrazinamide	qd	po	372	3465			17302
+300	Isoniazid	qd	po	372	3466			13497
+600	Rifampicin	qd	po	372	3466			13498
+800	Ethambutol HCl	qd	po	372	3466			13499
+1500	Pyrazinamide	qd	po	372	3466			13500
+1000	Streptomycin sulfate inj	qd	IM	372	3466			13501
+300	Isoniazid	qd	po	372	3467			13530
+600	Rifampicin	qd	po	372	3467			13531
+800	Ethambutol HCl	qd	po	372	3467			13532
+1500	Pyrazinamide	qd	po	372	3467			13533
+1000	Streptomycin sulfate inj	qd	IM	372	3467			13534
+300	Isoniazid	qd	po	372	3468			14023
+600	Rifampicin	qd	po	372	3468			14024
+800	Ethambutol HCl	qd	po	372	3468			14025
+1500	Pyrazinamide	qd	po	372	3468			14026
+1000	Streptomycin sulfate inj	qd 	IM	372	3468			14027
+300	Isoniazid	qd	po	372	3469			14032
+600	Rifampicin	qd	po	372	3469			14033
+800	Ethambutol HCl	qd	po	372	3469			14034
+1500	Pyrazinamide	qd	po	372	3469			14035
+1000	Streptomycin sulfate inj	qd	IM	372	3469			14036
+300	Isoniazid	qd	po	372	3470			14560
+600	Rifampicin	qd	po	372	3470			14561
+800	Ethambutol HCl	qd	po	372	3470			14562
+1500	Pyrazinamide	qd	po	372	3470			14563
+1000	Streptomycin sulfate inj	qd	IM	372	3470			14564
+300	Isoniazid	qd	po	372	3471			15070
+600	Rifampicin	qd	po	372	3471			15071
+800	Ethambutol HCl	qd	po	372	3471			15072
+1500	Pyraznamide	qd	po	372	3471			15073
+1000	Streptomycin sulfate inj	qd	IM	372	3471			15074
+300	Isoniazid	qd	po	372	3472			15085
+600	Rifampicin	qd	po	372	3472			15086
+800	Ethambutol HCl	qd	po	372	3472			15087
+1500	Pyrazinamide	qd	po	372	3472			15088
+1000	Streptomycin sulfate inj	qd	IM	372	3472			15089
+300	Isoniazid	qd	po	372	3473			15639
+600	Rifampicin	qd	po	372	3473			15640
+800	Ethambutol HCl	qd	po	372	3473			15641
+1500	Pyrazinamide	qd	po	372	3473			15642
+1000	Streptomycin sulfate inj	qd	IM	372	3473			15643
+300	Isoniazid	qd	po	372	3475			14552
+600	Ripampicin	qd	po	372	3475			14553
+1200	Ethambutol HCl	qd	po	372	3475			14554
+1500	Pyrazinamide	qd	po	372	3475			14555
+300	Isoniazid	qd	po	372	3476			15075
+600	Rifampicin	qd	po	372	3476			15076
+1200	Ethambutol HCl	qd	po	372	3476			15077
+1500	Pyrazinamide	qd	po	372	3476			15078
+1000	Streptomycin sulfate inj	qd	po	372	3476			15079
+300	Isoniazid	qd	po	372	3477			15080
+600	Rifampicin	qd	po	372	3477			15081
+1200	Ethambutol HCl	qd	po	372	3477			15082
+1500	Pyrazinamide	qd	po	372	3477			15083
+1000	Streptomycin sulfate inj	qd	IM	372	3477			15084
+300	Isoniazid	qd	po	372	3478			15090
+600	Rifampicin	qd	po	372	3478			15091
+1200	Ethambutol HCl	qd	po	372	3478			15092
+1500	Pyrazinamide	qd	po	372	3478			15093
+1000	Streptomycin sulfate inj	qd	IM	372	3478			15094
+300	Isoniazid	qd	po	372	3479			15644
+600	Rifampicin	qd	po	372	3479			15645
+1200	Ethambutol HCl	qd	po	372	3479			15646
+1500	Pyrazinamide	qd	po	372	3479			15647
+1000	Streptomycin sulfate inj	qd	IM	372	3479			15648
+300	Isoniazid	qd	po	372	3480			16639
+600	Rifampicin	qd	po	372	3480			16640
+1200	Ethambutol HCl	qd	po	372	3480			16641
+1500	Pyrazinamide	qd	po	372	3480			16642
+1000	Streptomycin sulfate inj	qd	IM	372	3480			16643
+300	Isoniazid	qd	po	372	3481			16669
+600	Rifampicin	qd	po	372	3481			16670
+1200	Ethambutol HCl 	qd	po	372	3481			16671
+1500	Pyrazinamide	qd	po	372	3481			16672
+1000	Streptomycin sulfate inj	qd	IM	372	3481			16673
+300	Isoniazid	qd	po	372	3482			16674
+600	Rifampicin 	qd	po	372	3482			16675
+800	Ethambutol HCl 	qd	po	372	3482			16676
+1500	Pyrazinamide	qd	po	372	3482			16677
+1000	Streptomycin sulfate inj	qid	IM	372	3482			16678
+1000	Streptomycin sulfate inj	qd	IM	372	3484			15617
+500	Clarithromycin	bid 	po	372	3484			15618
+250	Prothionamide	bid	po	372	3484			15619
+1500	Prazinamide	qd	po	372	3484			15620
+250	cycloserine	bid	po	372	3484			15621
+1000	Streptomycin sulfate inj	qd	IM	372	3485			15630
+500	Clarithromycin	bid	po	372	3485			15631
+250	Prothionamide	bid	po	372	3485			15632
+250	Cycloserine	bid	po	372	3485			15633
+1500	Pyrazinamide	qd	po	372	3485			15634
+1000	Streptomycin sulfate inj	qd	IM	372	3486			15649
+500	Clarithromycin	bid	po	372	3486			15650
+250	Prothionamide	bid	po	372	3486			15651
+250	Cycloserine	bid	po	372	3486			15652
+1500	Pyrazinamide	qd	po	372	3486			15653
+1000	Streptomycin sulfate inj	qd	IM	372	3487			16644
+500	Clarithromycin	bid 	po	372	3487			16645
+250	Prothionamide	bid	po	372	3487			16646
+250	Cycloserine	bid	po	372	3487			16647
+1500	Pyrazinamide	qd	po	372	3487			16648
+1000	Streptomycin sulfate inj	tiw	IM	372	3488			16661
+500	Clarithromycin	bid	po	372	3488			16662
+250	Prothionamide	bid	po	372	3488			16663
+250	Cyloserine	bid	po	372	3488			16664
+1500	Pyrazinamide	qd	po	372	3488			16665
+1000	Streptomycin sulfate inj	tiw	IM	372	3489			17271
+500	Clarithromycin	bid	po	372	3489			17272
+250	Prothionamide	bid	po	372	3489			17273
+250	Cycloserine	bid	po	372	3489			17274
+1500	Pyrazinamide	qd	po	372	3489			17275
+1000	Streptomycin sulfate inj	tiw	IM	372	3490			17280
+500	Clarithromycin	bid	po	372	3490			17281
+250	Prothionamide	bid	po	372	3490			17282
+250	Cycloserine	bid	po	372	3490			17283
+1500	Pyrazinamide	qd	po	372	3490			17284
+1000	Kanamycin sulfate inj	tiw	IM	372	3491			17307
+500	Clarithromycin	bid	po	372	3491			17308
+250	Prothionamide	bid	po	372	3491			17309
+250	Cycloserine	bid	po	372	3491			17310
+1500	Pyrazinamide	bid	po	372	3491			17311
+300	Isoniazid	qd	po	372	3520			16653
+450	Rifampicin	qd	po	372	3520			16654
+800	Ethambutol HCl	qd	po	372	3520			16655
+1000	Pyrazinamide	qd	po	372	3520			16656
+300	Isoniazid	qd	po	372	3529			16683
+600	Rifampicin	qd	po	372	3529			16684
+1200	Ethambutol HCl 	qd	po	372	3529			16685
+1500	Pyrazinamide	qd	po	372	3529			16686
+300	Isoniazid	qd	po	372	3530			16687
+600	Rifampicin	qd	po	372	3530			16688
+1200	Ethambutol HCl	qd	po	372	3530			16689
+1500	Pyrazinamide	qd	po	372	3530			16690
+300	Isoniazid	qd	po	372	3531			17276
+600	Rifampicin	qd	po	372	3531			17277
+1200	Ethambutol HCl	qd	po	372	3531			17278
+1500	Pyrazinamide	qd	po	372	3531			17279
+300	Isoniazid	qd	po	372	3532			17285
+600	Rifampicin	qd	po	372	3532			17286
+1200	Ethambutol HCl	qd	po	372	3532			17287
+1500	Pyrazinamide	qd	po	372	3532			17288
+300	Isoniazid	qd	po	372	3533			17303
+600	Rifampicin	qd	po	372	3533			17304
+1200	Ethanbutol HCl	qd	po	372	3533			17305
+1500	Pyrazinamide	qd	po	372	3533			17306
+300	Isoniazid	qd	po	372	3534			17898
+600	Rifampicin	qd	po	372	3534			17899
+1200	Ethambutol HCl	qd	po	372	3534			17900
+1500	Pyrazinamide	qd	po	372	3534			17901
+300	Isoniazid	qd	po	372	3538			17293
+450	Rifampicin	qd	po	372	3538			17294
+800	Ethambutol HCl	qd	po	372	3538			17295
+1000	Pyrazinamide	qd	po	372	3538			17296
+750	Levofloxacin	qd	po	372	3538			17297
+750	Streptomycin sulfate inj	qd	IV	372	3538			17298
+3	Rifafour	daily	1	372	5446	2	RSA Import	18430
+3	Rifafour	daily	1	372	5447	3	RSA Import	18431
+3	Rifafour	daily	1	372	5448	4	RSA Import	18432
+3	Rifafour	daily	1	372	5449	5	RSA Import	18433
+3	Rifafour	daily	1	372	5450	6	RSA Import	18434
+3	Rifafour	daily	1	372	5451	7	RSA Import	18435
+3	Rifafour	daily	1	372	5452	8	RSA Import	18436
+3	Rifafour	daily	1	372	5453	12	RSA Import	18438
+3	Rifafour	daily	1	372	5454	13	RSA Import	18439
+3	Rifafour	daily	1	372	5455	14	RSA Import	18440
+3	Rifafour	daily	1	372	5456	15	RSA Import	18441
+3	Rifafour	daily	1	372	5457	16	RSA Import	18442
+3	Rifafour	daily	1	372	5458	17	RSA Import	18443
+3	Rifinah	daily	1	372	5459	18	RSA Import	18444
+3	Rifinah	daily	1	372	5460	19	RSA Import	18445
+3	Rifafour	daily	1	372	5461	182	RSA Import	18447
+3	Rifafour	daily	1	372	5462	183	RSA Import	18448
+3	Rifafour	daily	1	372	5463	184	RSA Import	18449
+3	Rifafour	daily	1	372	5464	185	RSA Import	18450
+3	Rifafour	daily	1	372	5465	186	RSA Import	18451
+3	Rifafour	daily	1	372	5466	187	RSA Import	18452
+3	Rifafour	daily	1	372	5467	188	RSA Import	18453
+3	Rifafour	daily	1	372	5468	189	RSA Import	18454
+1000	Streptomycin	Daily	2	372	5469	192	RSA Import	18456
+1000	Streptomycin	1	2	372	5470	193	RSA Import	18457
+1000	Streptomycin	Daily	2	372	5471	194	RSA Import	18458
+1000	Streptomycin	Daily	2	372	5472	195	RSA Import	18459
+1000	Streptomycin	Daily	2	372	5473	196	RSA Import	18460
+4	Rifafour	Daily	1	372	5474	197	RSA Import	18461
+4	Rifafour	Daily	1	372	5475	198	RSA Import	18462
+3	Ethambutol	daily	1	372	5476	199	RSA Import	18463
+2	Rifafour	daily	1	372	5477	202	RSA Import	18465
+2	Rifafour	daily	1	372	5478	203	RSA Import	18466
+2	Rifafour	daily	1	372	5479	204	RSA Import	18467
+1000	Streptomycin	daily	2	372	5480	243	RSA Import	18474
+1000	Streptomycin	daily	2	372	5481	244	RSA Import	18475
+1000	Streptomycin	daily	2	372	5482	245	RSA Import	18476
+1000	Streptomycin	daily	2	372	5483	246	RSA Import	18477
+1000	Streptomycin	daily	2	372	5484	247	RSA Import	18478
+3	Rifafour	daily	1	372	5485	248	RSA Import	18479
+1000	Streptomycin	daily	2	372	5486	252	RSA Import	18482
+800	Ofloxacin	Daily	1	372	5487	262	RSA Import	18483
+800	Ofloxacin	Daily	1	372	5488	263	RSA Import	18484
+800	Ofloxacin	Daily	1	372	5489	264	RSA Import	18485
+800	Ofloxacin	Daily	1	372	5490	265	RSA Import	18486
+800	Ofloxacin	Daily	1	372	5491	266	RSA Import	18487
+800	Ofloxacin	Daily	1	372	5492	267	RSA Import	18488
+1000	Streptomycin	Daily	2	372	5493	302	RSA Import	18492
+1000	Streptomycin	Daily	2	372	5494	303	RSA Import	18493
+1000	Streptomycin	Daily	2	372	5495	304	RSA Import	18494
+1000	Streptomycin	daily	2	372	5496	305	RSA Import	18495
+750	Streptomycin	daily	2	372	5497	322	RSA Import	18501
+750	Streptomycin	daily	2	372	5498	362	RSA Import	18503
+750	Streptomycin	daily	2	372	5499	363	RSA Import	18504
+750	Streptomycin	daily	2	372	5500	364	RSA Import	18505
+750	Streptomycin	daily	2	372	5501	392	RSA Import	18529
+750	Streptomycin	daily	2	372	5502	393	RSA Import	18530
+2	Rifafour	daily	1	372	5602	205	RSA Import	18468
+2	Rifafour	daily	1	372	5603	206	RSA Import	18469
+2	Rifafour	daily	1	372	5604	207	RSA Import	18470
+2	Rifinah	daily	1	372	5605	208	RSA Import	18471
+2	Rifinah	daily	1	372	5606	209	RSA Import	18472
+3	Rifafour	daily	1	372	5607	249	RSA Import	18480
+800	Ofloxacin	daily	1	372	5608	268	RSA Import	18489
+800	Ofloxacin	daily	1	372	5609	269	RSA Import	18490
+1000	Streptomycin	daily	2	372	5610	306	RSA Import	18496
+1000	Streptomycin	daily	2	372	5611	307	RSA Import	18497
+750	Streptomycin	daily	2	372	5612	365	RSA Import	18506
+750	Streptomycin	daily	2	372	5613	366	RSA Import	18507
+750	Streptomycin	daily	2	372	5614	372	RSA Import	18511
+750	Streptomycin	daily	2	372	5615	373	RSA Import	18512
+750	Streptomycin	daily	2	372	5616	374	RSA Import	18513
+750	Streptomycin	daily	2	372	5617	375	RSA Import	18514
+750	Streptomycin	daily	2	372	5618	376	RSA Import	18515
+750	Streptomycin	daily	2	372	5619	382	RSA Import	18520
+750	Streptomycin	daily	2	372	5620	383	RSA Import	18521
+750	Streptomycin	daily	2	372	5621	384	RSA Import	18522
+750	Streptomycin	daily	2	372	5622	385	RSA Import	18523
+750	Streptomycin	daily	2	372	5623	386	RSA Import	18524
+750	Streptomycin	daily	2	372	5624	394	RSA Import	18531
+750	Streptomycin	daily	2	372	5625	395	RSA Import	18532
+4	Rimstar	daily	1	372	5626	412	RSA Import	18538
+4	Rimstar	daily	1	372	5627	413	RSA Import	18539
+4	Rimstar	daily	1	372	5628	414	RSA Import	18540
+1000	Streptomycin	daily	2	372	5629	422	RSA Import	18546
+1000	Streptomycin	daily	2	372	5630	423	RSA Import	18547
+1000	Streptomycin	daily	2	372	5631	424	RSA Import	18548
+750	Streptomycin	daily	2	372	5632	432	RSA Import	18551
+750	Streptomycin	daily	2	372	5633	442	RSA Import	18552
+750	Streptomycin	daily	2	372	5634	443	RSA Import	18553
+3	Rifafour	daily	1	372	5636	9	RSA Import	18437
+4	Rifafour	daily	1	372	5637	308	RSA Import	18498
+750	Streptomycin	daily	2	372	5638	367	RSA Import	18508
+750	Streptomycin	daily	2	372	5639	377	RSA Import	18516
+750	Streptomycin	daily	2	372	5640	387	RSA Import	18525
+750	Streptomycin	daily	2	372	5641	396	RSA Import	18533
+4	Rimstar	daily	1	372	5642	415	RSA Import	18541
+1000	Kanamycin	daily	2	372	5643	425	RSA Import	18549
+750	Streptomycin	daily	2	372	5644	444	RSA Import	18554
+4	Rimstar	daily	1	372	5645	309	RSA Import	18499
+4	Rifafour	daily	1	372	5646	332	RSA Import	18502
+3	Rimstar	daily	1	372	5647	368	RSA Import	18509
+4	Rimstar	daily	1	372	5648	378	RSA Import	18517
+3	Rimstar	daily	1	372	5649	379	RSA Import	18518
+3	Rimstar	daily	1	372	5650	388	RSA Import	18526
+750	Streptomycin	daily	2	372	5651	389	RSA Import	18527
+750	Streptomycin	daily	2	372	5652	397	RSA Import	18534
+3	Rimstar	daily	1	372	5653	398	RSA Import	18535
+4	Rimstar	daily	1	372	5654	416	RSA Import	18542
+4	Rifafour	daily	1	372	5655	417	RSA Import	18543
+1000	Kanamycin	daily	2	372	5656	426	RSA Import	18550
+750	Streptomycin	daily	2	372	5657	445	RSA Import	18555
+750	Streptomycin	daily	2	372	5658	446	RSA Import	18556
+2	Ethambutol	daily	1	372	5659	369	RSA Import	18510
+3	Rifinah	daily	1	372	5660	418	RSA Import	18544
+750	Streptomycin	daily	2	372	5661	447	RSA Import	18557
+4	Rimstar	daily	1	372	5662	462	RSA Import	18561
+4	Rimstar	daily	1	372	5663	463	RSA Import	18562
+5	Rimstar	daily	1	372	5664	472	RSA Import	18568
+5	Rimstar	daily	1	372	5665	473	RSA Import	18569
+3	Rifinah	daily	1	372	5667	20	RSA Import	18446
+3	Rimstar	daily	1	372	5668	399	RSA Import	18536
+4	Rimstar	daily	1	372	5669	464	RSA Import	18563
+5	Rimstar	daily	1	372	5670	474	RSA Import	18570
+3	Rifafour	daily	1	372	5671	190	RSA Import	18455
+4	Rifinah	daily	1	372	5672	419	RSA Import	18545
+750	Streptomycin	daily	2	372	5673	448	RSA Import	18558
+4	Rimstar	daily	1	372	5674	465	RSA Import	18564
+3	Rifafour	daily	1	372	5675	522	RSA Import	18582
+3	Rifafour	daily	1	372	5676	523	RSA Import	18583
+2	Rifinah	daily	1	372	5681	210	RSA Import	18473
+2	Ethambutol	daily	1	372	5682	250	RSA Import	18481
+750	Streptomycin	daily	2	372	5683	449	RSA Import	18559
+5	Rimstar	daily	1	372	5684	475	RSA Import	18571
+4	Rimstar	daily	1	372	5685	512	RSA Import	18573
+4	Rimstar	daily	1	372	5686	513	RSA Import	18574
+4	Rimstar	daily	1	372	5687	514	RSA Import	18575
+3	Rimstar	daily	1	372	5688	524	RSA Import	18584
+3	Ethambutol	daily	1	372	5689	200	RSA Import	18464
+800	Ofloxacin	daily	1	372	5690	270	RSA Import	18491
+4	Rimstar	daily	1	372	5691	466	RSA Import	18565
+4	Rimstar	daily	1	372	5692	515	RSA Import	18576
+3	Rimstar	daily	1	372	5693	525	RSA Import	18585
+4	Rimactazid	daily	1	372	5694	467	RSA Import	18566
+5	Rimstar	daily	1	372	5695	476	RSA Import	18572
+4	Rimstar	daily	1	372	5721	516	RSA Import	18577
+3	Rimstar	daily	1	372	5722	526	RSA Import	18586
+3	Rifafour	daily	1	372	5830	582	RSA Import	18591
+3	Ethambutol	daily	1	372	5859	310	RSA Import	18500
+2	Rifinah	daily	1	372	5860	517	RSA Import	18578
+2	Rifinah	daily	1	372	5861	527	RSA Import	18587
+3	Rifafour	daily	1	372	5862	583	RSA Import	18592
+3	Rifafour	daily	1	372	5863	584	RSA Import	18593
+2	Ethambutol	daily	1	372	5865	380	RSA Import	18519
+1000	Kanamycin	daily	2	372	5866	390	RSA Import	18528
+4	Rimactazid	daily	1	372	5867	469	RSA Import	18567
+2	Rifinah	daily	1	372	5868	518	RSA Import	18579
+2	Rimactazid	daily	1	372	5869	528	RSA Import	18588
+750	Streptomycin	daily	2	372	5870	592	RSA Import	18598
+750	Streptomycin	daily	2	372	5871	593	RSA Import	18599
+4	Rifafour	daily	1	372	5872	602	RSA Import	18606
+4	Rifafour	daily	1	372	5873	603	RSA Import	18607
+3	Rifafour	daily	1	372	5902	585	RSA Import	18594
+750	Streptomycin	daily	2	372	5903	594	RSA Import	18600
+2	Ethambutol	daily	1	372	5954	400	RSA Import	18537
+2	Rifinah	daily	1	372	5955	519	RSA Import	18580
+2	Rimactazid	daily	1	372	5956	529	RSA Import	18589
+750	Streptomycin	daily	2	372	6021	450	RSA Import	18560
+2	Rifinah	daily	1	372	6022	587	RSA Import	18595
+3	Rifafour	daily	1	372	6023	595	RSA Import	18601
+3	Rifafour	daily	1	372	6024	596	RSA Import	18602
+4	Rifafour	daily	1	372	6025	605	RSA Import	18608
+4	Rifafour	daily	1	372	6026	606	RSA Import	18609
+3	Rifafour	daily	1	372	6027	662	RSA Import	18613
+4	Rifafour	daily	1	372	6028	672	RSA Import	18620
+4	Rifafour	daily	1	372	6029	682	RSA Import	18627
+3	Rifafour	daily	1	372	6030	692	RSA Import	18634
+750	Streptomycin	daily	2	372	6038	597	RSA Import	18603
+3	Rifafour	daily	1	372	6039	663	RSA Import	18614
+3	Rifafour	daily	1	372	6040	664	RSA Import	18615
+4	Rifafour	daily	1	372	6041	674	RSA Import	18622
+4	Rifafour	daily	1	372	6042	683	RSA Import	18628
+3	Rifafour	daily	1	372	6043	693	RSA Import	18635
+1000	Streptomycin	daily	2	372	6044	702	RSA Import	18641
+1000	Streptomycin	daily	2	372	6045	703	RSA Import	18642
+2	Rifinah	daily	1	372	6048	589	RSA Import	18596
+4	Rifafour	daily	1	372	6049	607	RSA Import	18610
+3	Rifafour	daily	1	372	6050	665	RSA Import	18616
+4	Rifafour	daily	1	372	6051	673	RSA Import	18621
+4	Rifafour	daily	1	372	6052	675	RSA Import	18623
+4	Rifafour	daily	1	372	6053	684	RSA Import	18629
+3	Rifafour	daily	1	372	6054	694	RSA Import	18636
+1000	Streptomycin	daily	2	372	6055	704	RSA Import	18643
+750	Streptomycin	daily	2	372	6056	712	RSA Import	18648
+4	Rifafour	daily	1	372	6057	722	RSA Import	18655
+2	Ethambutol	daily	1	372	6060	599	RSA Import	18604
+2	Rimactazid	daily	1	372	6061	609	RSA Import	18611
+4	Rifafour	daily	1	372	6062	685	RSA Import	18630
+3	Rifafour	daily	1	372	6063	695	RSA Import	18637
+1000	Streptomycin	daily	2	372	6064	705	RSA Import	18644
+750	Streptomycin	daily	2	372	6065	713	RSA Import	18649
+150	Pyridoxine	daily	1	372	6066	714	RSA Import	18650
+2	Rimactizid	daily	1	372	6082	530	RSA Import	18590
+3	Rifafour	daily	1	372	6083	667	RSA Import	18617
+300	Rifinah	daily	1	372	6084	677	RSA Import	18624
+4	Rifafour	daily	1	372	6085	687	RSA Import	18631
+3	Rimactizid	daily	1	372	6086	697	RSA Import	18638
+1000	Streptomycin	daily	2	372	6087	707	RSA Import	18645
+1000	Kanamycin	daily	2	372	6088	715	RSA Import	18651
+3	Rimactizid	daily	1	372	6098	669	RSA Import	18618
+3	Rifafour	daily	1	372	6104	754	RSA Import	18656
+4	Rifafour	daily	1	372	6106	679	RSA Import	18625
+2	Rimactizid	daily	1	372	6107	689	RSA Import	18632
+3	Rimactizid	daily	1	372	6108	699	RSA Import	18639
+4	Rifafour	daily	1	372	6109	709	RSA Import	18646
+1000	Kanamycin	daily	2	372	6110	717	RSA Import	18652
+2	Rifinah	daily	1	372	6119	590	RSA Import	18597
+1000	Kanamycin	daily	2	372	6120	719	RSA Import	18653
+3	Rifafour	daily	1	372	6121	794	RSA Import	18657
+2	Ethambutol	daily	1	372	6129	600	RSA Import	18605
+2	Rimactizid	daily	1	372	6130	610	RSA Import	18612
+3	Rifafour	daily	1	372	6131	842	RSA Import	18659
+3	Rifafour	daily	1	372	6132	850	RSA Import	18666
+4	Rifafour	daily	1	372	6133	834	RSA Import	18658
+3	Rifafour	daily	1	372	6139	843	RSA Import	18660
+3	Rifafour	daily	1	372	6140	844	RSA Import	18661
+3	Rifafour	daily	1	372	6141	851	RSA Import	18667
+3	Rifafour	daily	1	372	6142	852	RSA Import	18668
+3	Rifafour	daily	1	372	6143	858	RSA Import	18672
+3	Rifafour	daily	1	372	6144	859	RSA Import	18673
+3	Rifafour	daily	1	372	6145	860	RSA Import	18674
+3	Rifafour	daily	1	372	6146	866	RSA Import	18679
+3	Rifafour	daily	1	372	6147	867	RSA Import	18680
+3	Rifafour	daily	1	372	6148	868	RSA Import	18681
+3	Rifafour	daily	1	372	6149	874	RSA Import	18686
+3	Rifafour	daily	1	372	6154	845	RSA Import	18662
+3	Rifafour	daily	1	372	6155	853	RSA Import	18669
+3	Rifafour	daily	1	372	6156	861	RSA Import	18675
+3	Rifafour	daily	1	372	6157	869	RSA Import	18682
+1000	Streptomycin	daily	2	372	6158	890	RSA Import	18687
+3	Rifafour	daily	1	372	6159	898	RSA Import	18694
+3	Rimactizid	daily	1	372	6166	670	RSA Import	18619
+2	Rimactizid	daily	1	372	6167	680	RSA Import	18626
+2	Rimactizid	daily	1	372	6168	690	RSA Import	18633
+3	Rimactizid	daily	1	372	6169	700	RSA Import	18640
+3	Ethambutol	daily	1	372	6170	710	RSA Import	18647
+3	Rifafour	daily	1	372	6171	846	RSA Import	18663
+3	Rifafour	daily	1	372	6172	862	RSA Import	18676
+1000	Streptomycin	daily	2	372	6173	891	RSA Import	18688
+1000	Streptomycin	daily	2	372	6174	892	RSA Import	18689
+3	Rifafour	daily	1	372	6175	899	RSA Import	18695
+3	Rifafour	daily	1	372	6176	900	RSA Import	18696
+4	Rifafour	daily	1	372	6177	906	RSA Import	18701
+4	Rifafour	daily	1	372	6178	907	RSA Import	18702
+4	Rifafour	daily	1	372	6179	908	RSA Import	18703
+3	Rifinah	daily	1	372	6183	854	RSA Import	18670
+3	Rifafour	daily	1	372	6184	870	RSA Import	18683
+1000	Streptomycin	daily	2	372	6185	893	RSA Import	18690
+3	Rifafour	daily	1	372	6186	901	RSA Import	18697
+4	Rifafour	daily	1	372	6187	909	RSA Import	18704
+750	Streptomycin	daily	2	372	6188	922	RSA Import	18708
+3	Rifafour	daily	1	372	6189	930	RSA Import	18715
+1000	Kanamycin 	daily	2	372	6193	720	RSA Import	18654
+750	Streptomycin	daily	2	372	6194	923	RSA Import	18709
+750	Streptomycin	daily	2	372	6195	924	RSA Import	18710
+3	Rifafour	daily	1	372	6196	931	RSA Import	18716
+3	Rifafour	daily	1	372	6197	932	RSA Import	18717
+3	Rifinah	daily	1	372	6198	847	RSA Import	18664
+3	Rifinah	daily	1	372	6199	855	RSA Import	18671
+750	Streptomycin	daily	2	372	6200	925	RSA Import	18711
+3	Rifafour	daily	1	372	6201	933	RSA Import	18718
+3	Rifinah	daily	1	372	6202	863	RSA Import	18677
+3	Rifinah	daily	1	372	6203	871	RSA Import	18684
+1000	Streptomycin	daily	2	372	6204	894	RSA Import	18691
+3	Rifafour	daily	1	372	6205	902	RSA Import	18698
+4	Rifafour	daily	1	372	6206	910	RSA Import	18705
+4	Rifafour	daily	1	372	6207	895	RSA Import	18692
+3	Rifafour	daily	1	372	6208	903	RSA Import	18699
+3	Rifinah	daily	1	372	6209	911	RSA Import	18706
+3	Rifafour	daily	1	372	6210	926	RSA Import	18712
+3	Rifinah	daily	1	372	6211	934	RSA Import	18719
+4	Rifafour	daily	1	372	6212	938	RSA Import	18722
+3	Rifinah	daily	1	372	6214	848	RSA Import	18665
+3	Rifinah	daily	1	372	6215	872	RSA Import	18685
+3	Rifafour	daily	1	372	6216	927	RSA Import	18713
+3	Rifinah	daily	1	372	6217	935	RSA Import	18720
+4	Rifafour	daily	1	372	6218	939	RSA Import	18723
+4	Rifafour	daily	1	372	6219	940	RSA Import	18724
+4	Rifafour	daily	1	372	6220	941	RSA Import	18725
+4	Rifafour	daily	1	372	6221	946	RSA Import	18729
+4	Rifafour	daily	1	372	6222	947	RSA Import	18730
+4	Rifafour	daily	1	372	6223	948	RSA Import	18731
+4	Rifafour	daily	1	372	6224	949	RSA Import	18732
+750	Streptomycin	daily	2	372	6225	954	RSA Import	18736
+750	Streptomycin	daily	2	372	6226	955	RSA Import	18737
+750	Streptomycin	daily	2	372	6227	956	RSA Import	18738
+750	Streptomycin	daily	2	372	6228	957	RSA Import	18739
+4	Rifafour	daily	1	372	6229	962	RSA Import	18743
+4	Rifafour	daily	1	372	6230	963	RSA Import	18744
+3	Rifafour	daily	1	372	6231	970	RSA Import	18747
+3	Rifafour	daily	1	372	6232	979	RSA Import	18752
+3	Rifafour	Daily	1	372	6233	995	RSA Import	18762
+3	Rifinah	daily	1	372	6264	864	RSA Import	18678
+3	Ethambutol	daily	1	372	6265	896	RSA Import	18693
+3	Rifinah	daily	1	372	6266	904	RSA Import	18700
+4	Rifafour	daily	1	372	6267	942	RSA Import	18726
+4	Rifafour	daily	1	372	6268	950	RSA Import	18733
+3	Rifafour	daily	1	372	6269	958	RSA Import	18740
+4	Rifafour	daily	1	372	6270	965	RSA Import	18745
+3	Rifafour	daily	1	372	6271	971	RSA Import	18748
+3	Rifafour	daily	1	372	6272	973	RSA Import	18749
+3	Rifafour	daily	1	372	6273	980	RSA Import	18753
+3	Rifafour	daily	1	372	6274	982	RSA Import	18754
+3	Rifafour	Daily	1	372	6275	987	RSA Import	18757
+3	Rifafour	daily	1	372	6276	988	RSA Import	18758
+3	Rifafour	Daily	1	372	6277	990	RSA Import	18759
+3	Rifafour	daily	1	372	6278	996	RSA Import	18763
+3	Rifafour	daily	1	372	6279	998	RSA Import	18764
+3	Rifafour	daily	1	372	6280	1003	RSA Import	18767
+3	Rifafour	daily	1	372	6281	1004	RSA Import	18768
+3	Rifafour	daily	1	372	6282	1006	RSA Import	18769
+3	Rifinah	daily	1	372	6284	912	RSA Import	18707
+800	Ethambutol	daily	1	372	6285	928	RSA Import	18714
+3	Rifinah	daily	1	372	6286	936	RSA Import	18721
+4	Rifinah	daily	1	372	6287	943	RSA Import	18727
+4	Rifafour	daily	1	372	6288	951	RSA Import	18734
+3	Rifafour	daily	1	372	6289	959	RSA Import	18741
+2	Rifinah	daily	1	372	6290	966	RSA Import	18746
+3	Rifafour	daily	1	372	6291	974	RSA Import	18750
+3	Rifafour	daily	1	372	6292	983	RSA Import	18755
+3	Rifafour	daily	1	372	6293	1007	RSA Import	18770
+3	Rifafour	daily	1	372	6294	1011	RSA Import	18772
+3	Rifafour	daily	1	372	6295	1012	RSA Import	18773
+3	Rifafour	daily	1	372	6296	1014	RSA Import	18774
+3	Rifafour	daily	1	372	6297	1027	RSA Import	18782
+3	Rifafour	daily	1	372	6298	1028	RSA Import	18783
+750	Streptomycin	daily	2	372	6299	1039	RSA Import	18787
+750	Streptomycin	daily	2	372	6300	1040	RSA Import	18788
+3	Rifafour	daily	1	372	6301	1057	RSA Import	18793
+3	Rifafour	daily	1	372	6302	1058	RSA Import	18794
+3	Rifafour	Daily	1	372	6319	991	RSA Import	18760
+3	Rifafour	daily	1	372	6322	1015	RSA Import	18775
+3	Rifafour	daily	1	372	6323	1029	RSA Import	18784
+750	Streptomycin	daily	2	372	6324	1041	RSA Import	18789
+3	Rifafour	daily	1	372	6325	1059	RSA Import	18795
+4	Rifafour	daily	1	372	6326	1063	RSA Import	18798
+4	Rifafour	daily	1	372	6327	1064	RSA Import	18799
+750	Streptomycin	daily	2	372	6328	1069	RSA Import	18802
+3	Rifafour	Daily	1	372	6331	1051	RSA Import	18792
+3	Rimactazid	Daily	1	372	6363	1023	RSA Import	18780
+3	Rifafour	daily	1	372	6364	1030	RSA Import	18785
+750	Streptomycin	daily	2	372	6365	1042	RSA Import	18790
+3	Rifafour	daily	1	372	6366	1060	RSA Import	18796
+4	Rifafour	daily	1	372	6367	1065	RSA Import	18800
+750	Streptomycin	daily	2	372	6368	1071	RSA Import	18803
+3	Rifafour	daily	1	372	6369	1075	RSA Import	18806
+3	Rifafour	daily	1	372	6370	1076	RSA Import	18807
+3	Rifafour	daily	1	372	6371	1081	RSA Import	18811
+3	Rifafour	Daily	1	372	6372	1082	RSA Import	18812
+3	Rifafour	daily	1	372	6373	1087	RSA Import	18816
+3	Rifafour	daily	1	372	6374	1088	RSA Import	18817
+4	Rifafour	daily	1	372	6375	1099	RSA Import	18825
+4	Rifafour	daily	1	372	6376	1100	RSA Import	18826
+3	Rifafour	daily	1	372	6377	1108	RSA Import	18830
+3	Rifafour	daily	1	372	6378	1109	RSA Import	18831
+4	Rifinah	daily	1	372	6383	944	RSA Import	18728
+750	Streptomycin	daily	2	372	6384	1072	RSA Import	18804
+3	Rifafour	daily	1	372	6385	1077	RSA Import	18808
+4	Rifafour	daily	1	372	6386	1093	RSA Import	18821
+3	Rifafour	daily	1	372	6387	1110	RSA Import	18832
+3	Rifafour	daily	1	372	6389	1163	RSA Import	18834
+4	Rifafour	daily	1	372	6392	1066	RSA Import	18801
+3	Rifafour	daily	1	372	6393	1083	RSA Import	18813
+3	Rifafour	daily	1	372	6394	1089	RSA Import	18818
+4	Rifafour	daily	1	372	6395	1094	RSA Import	18822
+3	Rifafour	daily	1	372	6396	1164	RSA Import	18835
+3	Rifafour	daily	1	372	6397	1173	RSA Import	18837
+2	Rimactizid	daily	1	372	6399	520	RSA Import	18581
+2	Rifinah	daily	1	372	6400	952	RSA Import	18735
+3	Ethambutol	daily	1	372	6401	960	RSA Import	18742
+3	Rifinah	daily	1	372	6403	976	RSA Import	18751
+2	Rifinah	daily	1	372	6404	985	RSA Import	18756
+3	Rifafour	Daily	1	372	6405	999	RSA Import	18765
+3	Rifafour	daily	1	372	6407	1019	RSA Import	18777
+3	Rifafour	daily	1	372	6408	1020	RSA Import	18778
+3	Rifafour	daily	1	372	6409	1022	RSA Import	18779
+3	Rifafour	daily	1	372	6410	1078	RSA Import	18809
+3	Rimactazid	Daily	1	372	6411	1084	RSA Import	18814
+4	Rifafour	daily	1	372	6412	1095	RSA Import	18823
+4	Rifafour	daily	1	372	6413	1101	RSA Import	18827
+4	Rifafour	daily	1	372	6414	1102	RSA Import	18828
+3	Rifafour	daily	1	372	6415	1111	RSA Import	18833
+3	Rifafour	daily	1	372	6418	1165	RSA Import	18836
+3	Rifafour	daily	1	372	6419	1174	RSA Import	18838
+3	Rifafour	daily	1	372	6420	1316	RSA Import	18841
+3	Rifafour	daily	1	372	6421	1317	RSA Import	18842
+3	Rifafour	daily	1	372	6422	1336	RSA Import	18849
+3	Rifafour	daily	1	372	6423	1337	RSA Import	18850
+3	Rimactazid	Daily	1	372	6426	993	RSA Import	18761
+3	Rimactazid	Daily	1	372	6427	1001	RSA Import	18766
+3	Rifinah	daily	1	372	6428	1009	RSA Import	18771
+2	Rifinah	daily	1	372	6429	1017	RSA Import	18776
+3	Rifinah	daily	1	372	6431	1090	RSA Import	18819
+4	Rifafour	daily	1	372	6432	1096	RSA Import	18824
+750	Streptomycin	daily	2	372	6437	1175	RSA Import	18839
+750	Streptomycin	daily	2	372	6438	1176	RSA Import	18840
+3	Rifafour	daily	1	372	6442	1318	RSA Import	18843
+3	Rifafour	Daily	1	372	6443	1338	RSA Import	18851
+4	Rifafour	daily	1	372	6444	1426	RSA Import	18852
+4	Rifafour	daily	1	372	6445	1427	RSA Import	18853
+3	Rifafour	daily	1	372	6446	1436	RSA Import	18855
+3	Rifinah	daily	1	372	6447	1437	RSA Import	18856
+3	Rifafour	daily	1	372	6448	1446	RSA Import	18859
+3	Rifafour	daily	1	372	6449	1447	RSA Import	18860
+4	Rifafour	daily	1	372	6450	1486	RSA Import	18871
+4	Rifafour	daily	1	372	6451	1496	RSA Import	18875
+3	Rifinah	daily	1	372	6469	1319	RSA Import	18844
+4	Rifafour	daily	1	372	6470	1487	RSA Import	18872
+3	Rifafour	daily	1	372	6471	1516	RSA Import	18883
+3	Rifafour	daily	1	372	6472	1517	RSA Import	18884
+3	Rimactazid	Daily	1	372	6474	1025	RSA Import	18781
+800	Ethambutol	daily	1	372	6475	1043	RSA Import	18791
+4	Rifafour	daily	1	372	6478	1428	RSA Import	18854
+3	Rifafour	daily	1	372	6479	1438	RSA Import	18857
+4	Rifafour	daily	1	372	6480	1488	RSA Import	18873
+4	Rifafour	daily	1	372	6481	1498	RSA Import	18877
+3	Rifafour	daily	1	372	6482	1518	RSA Import	18885
+1000	Streptomycin	daily	2	372	6483	1527	RSA Import	18888
+750	Streptomycin	daily	2	372	6484	1556	RSA Import	18899
+4	Rifafour	daily	1	372	6485	1566	RSA Import	18903
+2	Streptomycin	daily	1	372	6490	1073	RSA Import	18805
+4	Rifafour	Daily	1	372	6495	1439	RSA Import	18858
+3	Rifafour	daily	1	372	6496	1449	RSA Import	18862
+5	Rifafour	Daily	1	372	6497	1456	RSA Import	18863
+5	Rifafour	Daily	1	372	6498	1457	RSA Import	18864
+4	Rifafour	daily	1	372	6499	1489	RSA Import	18874
+4	Rifafour	daily	1	372	6500	1499	RSA Import	18878
+4	Rifafour	daily	1	372	6501	1506	RSA Import	18879
+4	Rifafour	daily	1	372	6502	1507	RSA Import	18880
+3	Rifafour	daily	1	372	6503	1536	RSA Import	18891
+3	Rifafour	daily	1	372	6504	1537	RSA Import	18892
+4	Rifafour	daily	1	372	6505	1546	RSA Import	18895
+3	Rifafour	daily	1	372	6506	1547	RSA Import	18896
+4	Rifafour	daily	1	372	6507	1567	RSA Import	18904
+5	Rifafour	daily	1	372	6508	1576	RSA Import	18907
+3	Rifafour	daily	1	372	6509	1586	RSA Import	18911
+3	Rifinah	daily	1	372	7204	1079	RSA Import	18810
+3	Rimactazid	daily	1	372	7205	1085	RSA Import	18815
+3	Rifinah	daily	1	372	7206	1091	RSA Import	18820
+2	Rifinah	daily	1	372	7207	1104	RSA Import	18829
+3	Rifafour	daily	1	372	7210	1448	RSA Import	18861
+5	Rifafour	daily	1	372	7212	1458	RSA Import	18865
+5	Rifafour	Daily	1	372	7213	1459	RSA Import	18866
+3	Rifafour	daily	1	372	7214	1466	RSA Import	18867
+3	Rifafour	daily	1	372	7215	1467	RSA Import	18868
+4	Rifafour	daily	1	372	7217	1497	RSA Import	18876
+4	Rifafour	daily	1	372	7219	1508	RSA Import	18881
+3	Rifafour	daily	1	372	7220	1519	RSA Import	18886
+1000	Streptomycin	daily	2	372	7222	1526	RSA Import	18887
+1000	Streptomycin	daily	2	372	7223	1528	RSA Import	18889
+1000	Streptomycin	daily	2	372	7224	1529	RSA Import	18890
+3	Rifafour	daily	1	372	7225	1538	RSA Import	18893
+3	Rifafour	daily	1	372	7226	1548	RSA Import	18897
+750	Streptomycin	daily	2	372	7227	1557	RSA Import	18900
+750	Streptomycin	daily	2	372	7228	1558	RSA Import	18901
+750	Streptomycin	daily	2	372	7229	1559	RSA Import	18902
+4	Rifafour	daily	1	372	7230	1568	RSA Import	18905
+5	Rifafour	daily	1	372	7231	1577	RSA Import	18908
+5	Rifafour	daily	1	372	7232	1578	RSA Import	18909
+3	Rifafour	daily	1	372	7233	1587	RSA Import	18912
+3	Rifafour	daily	1	372	7234	1588	RSA Import	18913
+750	Streptomycin	daily	2	372	7235	1596	RSA Import	18915
+750	Streptomycin	daily	2	372	7236	1597	RSA Import	18916
+750	Streptomycin	daily	2	372	7237	1598	RSA Import	18917
+3	Rifafour	daily	1	372	7238	1606	RSA Import	18919
+3	Rifafour	daily	1	372	7239	1607	RSA Import	18920
+3	Rifafour	daily	1	372	7240	1616	RSA Import	18923
+3	Rifafour	daily	1	372	7241	1617	RSA Import	18924
+3	Rifafour	daily	1	372	7242	1618	RSA Import	18925
+750	Streptomycin	daily	2	372	7243	1626	RSA Import	18927
+750	Streptomycin	daily	2	372	7244	1627	RSA Import	18928
+750	Streptomycin	daily	2	372	7245	1628	RSA Import	18929
+3	Rifinah	daily	1	372	7631	1031	RSA Import	18786
+3	Rifinah + EMB	daily	1	372	7632	1061	RSA Import	18797
+750	Streptomycin	daily	2	372	7633	1326	RSA Import	18845
+750	Streptomycin	daily	2	372	7634	1327	RSA Import	18846
+750	Streptomycin	daily	2	372	7635	1328	RSA Import	18847
+750	Streptomycin	daily	2	372	7636	1329	RSA Import	18848
+3	Rifafour	daily	1	372	7638	1468	RSA Import	18869
+3	Rifafour	daily	1	372	7639	1469	RSA Import	18870
+4	Rifafour	daily	1	372	7641	1509	RSA Import	18882
+3	Rifafour	daily	1	372	7644	1539	RSA Import	18894
+3	Rifafour	daily	1	372	7646	1549	RSA Import	18898
+4	Rifafour	daily	1	372	7649	1569	RSA Import	18906
+5	Rifafour	daily	1	372	7651	1579	RSA Import	18910
+3	Rifafour	daily	1	372	7653	1589	RSA Import	18914
+750	Streptomycin	daily	2	372	7655	1599	RSA Import	18918
+3	Rifafour	daily	1	372	7657	1608	RSA Import	18921
+3	Rifafour	daily	1	372	7658	1609	RSA Import	18922
+3	Rifinah	daily	1	372	7659	1619	RSA Import	18926
+750	Streptomycin	daily	2	372	7661	1629	RSA Import	18930
+3	Rifafour	daily	1	372	7663	1636	RSA Import	18931
+3	Rifafour	daily	1	372	7664	1637	RSA Import	18932
+3	Rifafour	daily	1	372	7665	1638	RSA Import	18933
+3	Rifafour	daily	1	372	7666	1646	RSA Import	18934
+3	Rifafour	daily	1	372	7667	1647	RSA Import	18935
+3	Rifafour	daily	1	372	7668	1656	RSA Import	18936
+3	Rifafour	daily	1	372	7669	1657	RSA Import	18937
+3	Rifafour	daily	1	372	7670	1658	RSA Import	18938
+750	Streptomycin	daily	2	372	7671	1666	RSA Import	18939
+750	Streptomycin	daily	2	372	7672	1667	RSA Import	18940
+3	Rifafour	daily	1	372	7673	1676	RSA Import	18941
+3	Rifafour	daily	1	372	7674	1677	RSA Import	18942
+2	Rifafour	daily	1	372	7675	1696	RSA Import	18943
+3	Rifafour	daily	1	372	7676	1697	RSA Import	18944
+3	Rifafour	daily	1	372	7677	1706	RSA Import	18945
+3	Rifafour	daily	1	372	7678	1707	RSA Import	18946
+3	Rifafour	daily	1	372	7679	1716	RSA Import	18947
+3	Rifafour	daily	1	372	7680	1717	RSA Import	18948
+3	Rifafour	daily	1	372	7681	1726	RSA Import	18949
+3	Rifafour	daily	1	372	7682	1727	RSA Import	18950
+4	Rifafour	daily	1	372	7683	1736	RSA Import	18951
+4	Rifafour	daily	1	372	7684	1737	RSA Import	18952
+3	Rifafour	daily	1	372	7685	1747	RSA Import	18953
+3	Rifafour	daily	1	372	7686	1748	RSA Import	18954
+3	Rifafour	daily	1	372	7687	1868	RSA Import	18955
+4	Rifafour	daily	1	372	7688	1879	RSA Import	18956
+3	Rifafour	daily	1	372	7689	1912	RSA Import	18957
